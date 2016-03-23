@@ -1,0 +1,555 @@
+fileFormatVersion: 2
+guid: fb4773b37100ad3458dfb59de89ad7d0
+timeCreated: 1457676312
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Globle_Rig
+    100004: group1
+    100006: joint1
+    100008: joint10
+    100010: joint11
+    100012: joint12
+    100014: joint13
+    100016: joint14
+    100018: joint15
+    100020: joint16
+    100022: joint17
+    100024: joint18
+    100026: joint19
+    100028: joint2
+    100030: joint20
+    100032: joint21
+    100034: joint22
+    100036: joint23
+    100038: joint24
+    100040: joint25
+    100042: joint26
+    100044: joint27
+    100046: joint28
+    100048: joint29
+    100050: joint3
+    100052: joint30
+    100054: joint31
+    100056: joint32
+    100058: joint37
+    100060: joint38
+    100062: joint39
+    100064: joint4
+    100066: joint40
+    100068: joint41
+    100070: joint42
+    100072: joint43
+    100074: joint44
+    100076: joint45
+    100078: joint46
+    100080: joint47
+    100082: joint48
+    100084: joint49
+    100086: joint5
+    100088: joint50
+    100090: joint55
+    100092: joint56
+    100094: joint57
+    100096: joint58
+    100098: joint59
+    100100: joint6
+    100102: joint60
+    100104: joint65
+    100106: joint66
+    100108: joint67
+    100110: joint68
+    100112: joint69
+    100114: joint7
+    100116: joint70
+    100118: joint71
+    100120: joint72
+    100122: joint73
+    100124: joint74
+    100126: joint75
+    100128: joint8
+    100130: joint9
+    100132: nurbsCircle10
+    100134: nurbsCircle10 1
+    100136: nurbsCircle11
+    100138: nurbsCircle11 1
+    100140: nurbsCircle12
+    100142: nurbsCircle12 1
+    100144: nurbsCircle13
+    100146: nurbsCircle14
+    100148: nurbsCircle15
+    100150: nurbsCircle16
+    100152: nurbsCircle17
+    100154: nurbsCircle18
+    100156: nurbsCircle19
+    100158: nurbsCircle2
+    100160: nurbsCircle20
+    100162: nurbsCircle21
+    100164: nurbsCircle22
+    100166: nurbsCircle23
+    100168: nurbsCircle23 1
+    100170: nurbsCircle24
+    100172: nurbsCircle24 1
+    100174: nurbsCircle25
+    100176: nurbsCircle3
+    100178: nurbsCircle3 1
+    100180: nurbsCircle4
+    100182: nurbsCircle4 1
+    100184: nurbsCircle5
+    100186: nurbsCircle5 1
+    100188: nurbsCircle6
+    100190: nurbsCircle6 1
+    100192: nurbsCircle7
+    100194: nurbsCircle7 1
+    100196: nurbsCircle8
+    100198: nurbsCircle8 1
+    100200: nurbsCircle9
+    100202: nurbsCircle9 1
+    100204: polySurface17
+    100206: polySurface18
+    100208: polySurface19
+    100210: polySurface20
+    100212: polySurface31
+    400000: //RootNode
+    400002: Globle_Rig
+    400004: group1
+    400006: joint1
+    400008: joint10
+    400010: joint11
+    400012: joint12
+    400014: joint13
+    400016: joint14
+    400018: joint15
+    400020: joint16
+    400022: joint17
+    400024: joint18
+    400026: joint19
+    400028: joint2
+    400030: joint20
+    400032: joint21
+    400034: joint22
+    400036: joint23
+    400038: joint24
+    400040: joint25
+    400042: joint26
+    400044: joint27
+    400046: joint28
+    400048: joint29
+    400050: joint3
+    400052: joint30
+    400054: joint31
+    400056: joint32
+    400058: joint37
+    400060: joint38
+    400062: joint39
+    400064: joint4
+    400066: joint40
+    400068: joint41
+    400070: joint42
+    400072: joint43
+    400074: joint44
+    400076: joint45
+    400078: joint46
+    400080: joint47
+    400082: joint48
+    400084: joint49
+    400086: joint5
+    400088: joint50
+    400090: joint55
+    400092: joint56
+    400094: joint57
+    400096: joint58
+    400098: joint59
+    400100: joint6
+    400102: joint60
+    400104: joint65
+    400106: joint66
+    400108: joint67
+    400110: joint68
+    400112: joint69
+    400114: joint7
+    400116: joint70
+    400118: joint71
+    400120: joint72
+    400122: joint73
+    400124: joint74
+    400126: joint75
+    400128: joint8
+    400130: joint9
+    400132: nurbsCircle10
+    400134: nurbsCircle10 1
+    400136: nurbsCircle11
+    400138: nurbsCircle11 1
+    400140: nurbsCircle12
+    400142: nurbsCircle12 1
+    400144: nurbsCircle13
+    400146: nurbsCircle14
+    400148: nurbsCircle15
+    400150: nurbsCircle16
+    400152: nurbsCircle17
+    400154: nurbsCircle18
+    400156: nurbsCircle19
+    400158: nurbsCircle2
+    400160: nurbsCircle20
+    400162: nurbsCircle21
+    400164: nurbsCircle22
+    400166: nurbsCircle23
+    400168: nurbsCircle23 1
+    400170: nurbsCircle24
+    400172: nurbsCircle24 1
+    400174: nurbsCircle25
+    400176: nurbsCircle3
+    400178: nurbsCircle3 1
+    400180: nurbsCircle4
+    400182: nurbsCircle4 1
+    400184: nurbsCircle5
+    400186: nurbsCircle5 1
+    400188: nurbsCircle6
+    400190: nurbsCircle6 1
+    400192: nurbsCircle7
+    400194: nurbsCircle7 1
+    400196: nurbsCircle8
+    400198: nurbsCircle8 1
+    400200: nurbsCircle9
+    400202: nurbsCircle9 1
+    400204: polySurface17
+    400206: polySurface18
+    400208: polySurface19
+    400210: polySurface20
+    400212: polySurface31
+    2300000: polySurface17
+    2300002: polySurface18
+    2300004: polySurface19
+    2300006: polySurface20
+    3300000: polySurface17
+    3300002: polySurface18
+    3300004: polySurface19
+    3300006: polySurface20
+    4300000: polySurface31
+    4300002: polySurface20
+    4300004: polySurface19
+    4300006: polySurface17
+    4300008: polySurface18
+    6400000: polySurface17
+    6400002: polySurface18
+    6400004: polySurface19
+    6400006: polySurface20
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: polySurface31
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Globle_Rig
+        weight: 1
+      - path: Globle_Rig/joint2
+        weight: 1
+      - path: Globle_Rig/joint2/group1
+        weight: 1
+      - path: Globle_Rig/joint2/group1/polySurface17
+        weight: 1
+      - path: Globle_Rig/joint2/group1/polySurface18
+        weight: 1
+      - path: Globle_Rig/joint2/group1/polySurface19
+        weight: 1
+      - path: Globle_Rig/joint2/group1/polySurface20
+        weight: 1
+      - path: Globle_Rig/joint2/joint1
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint10
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint10/joint11
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint10/joint11/joint12
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint10/joint11/joint12/joint13
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint10/joint11/joint12/joint13/joint14
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint10/joint11/joint12/joint13/joint14/joint15
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint10/joint11/joint12/joint13/joint14/joint15/joint16
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint10/joint11/joint12/joint13/joint14/joint15/joint16/joint17
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint10/joint11/joint12/joint13/joint14/joint15/joint16/joint17/joint18
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint10/joint11/joint12/joint55
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint10/joint11/joint12/joint55/joint56
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint10/joint11/joint12/joint55/joint56/joint57
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint10/joint11/joint12/joint55/joint56/joint57/joint58
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint10/joint11/joint12/joint55/joint56/joint57/joint58/joint59
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint10/joint11/joint12/joint55/joint56/joint57/joint58/joint59/joint60
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint19
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint19/joint20
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint19/joint20/joint21
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint19/joint20/joint21/joint22
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint19/joint20/joint21/joint22/joint23
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint19/joint20/joint21/joint22/joint23/joint24
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint19/joint20/joint21/joint22/joint23/joint24/joint25
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint19/joint20/joint21/joint26
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint19/joint20/joint21/joint26/joint27
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint19/joint20/joint21/joint26/joint27/joint28
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint19/joint20/joint21/joint26/joint27/joint28/joint29
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint19/joint20/joint21/joint30
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint19/joint20/joint21/joint30/joint31
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint19/joint20/joint21/joint30/joint31/joint32
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint37
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint37/joint38
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint37/joint38/joint39
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint37/joint38/joint39/joint40
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint37/joint38/joint39/joint40/joint41
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint37/joint38/joint39/joint40/joint41/joint42
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint37/joint38/joint39/joint40/joint41/joint42/joint43
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint37/joint38/joint39/joint44
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint37/joint38/joint39/joint44/joint45
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint37/joint38/joint39/joint44/joint45/joint46
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint37/joint38/joint39/joint47
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint37/joint38/joint39/joint47/joint48
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint37/joint38/joint39/joint47/joint48/joint49
+        weight: 1
+      - path: Globle_Rig/joint2/joint1/joint8/joint9/joint37/joint38/joint39/joint47/joint48/joint49/joint50
+        weight: 1
+      - path: Globle_Rig/joint2/joint3
+        weight: 1
+      - path: Globle_Rig/joint2/joint3/joint4
+        weight: 1
+      - path: Globle_Rig/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: Globle_Rig/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: Globle_Rig/joint2/joint3/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: Globle_Rig/joint2/joint3/joint4/joint5/joint6/joint7/joint67
+        weight: 1
+      - path: Globle_Rig/joint2/joint3/joint4/joint5/joint6/joint7/joint67/joint66
+        weight: 1
+      - path: Globle_Rig/joint2/joint3/joint4/joint5/joint6/joint7/joint67/joint66/joint65
+        weight: 1
+      - path: Globle_Rig/joint2/joint68
+        weight: 1
+      - path: Globle_Rig/joint2/joint68/joint69
+        weight: 1
+      - path: Globle_Rig/joint2/joint68/joint69/joint70
+        weight: 1
+      - path: Globle_Rig/joint2/joint68/joint69/joint70/joint71
+        weight: 1
+      - path: Globle_Rig/joint2/joint72
+        weight: 1
+      - path: Globle_Rig/joint2/joint72/joint73
+        weight: 1
+      - path: Globle_Rig/joint2/joint72/joint73/joint74
+        weight: 1
+      - path: Globle_Rig/joint2/joint72/joint73/joint74/joint75
+        weight: 1
+      - path: Globle_Rig/nurbsCircle15
+        weight: 1
+      - path: Globle_Rig/nurbsCircle15/nurbsCircle14
+        weight: 1
+      - path: Globle_Rig/nurbsCircle15/nurbsCircle14/nurbsCircle2
+        weight: 1
+      - path: Globle_Rig/nurbsCircle15/nurbsCircle14/nurbsCircle2/nurbsCircle3 1
+        weight: 1
+      - path: Globle_Rig/nurbsCircle15/nurbsCircle14/nurbsCircle2/nurbsCircle3 1/nurbsCircle4
+          1
+        weight: 1
+      - path: Globle_Rig/nurbsCircle15/nurbsCircle14/nurbsCircle2/nurbsCircle3 1/nurbsCircle4
+          1/nurbsCircle5 1
+        weight: 1
+      - path: Globle_Rig/nurbsCircle15/nurbsCircle14/nurbsCircle2/nurbsCircle3 1/nurbsCircle4
+          1/nurbsCircle5 1/nurbsCircle6 1
+        weight: 1
+      - path: Globle_Rig/nurbsCircle15/nurbsCircle14/nurbsCircle2/nurbsCircle3 1/nurbsCircle4
+          1/nurbsCircle5 1/nurbsCircle6 1/nurbsCircle7 1
+        weight: 1
+      - path: Globle_Rig/nurbsCircle15/nurbsCircle14/nurbsCircle2/nurbsCircle3 1/nurbsCircle4
+          1/nurbsCircle10 1
+        weight: 1
+      - path: Globle_Rig/nurbsCircle15/nurbsCircle14/nurbsCircle2/nurbsCircle3 1/nurbsCircle4
+          1/nurbsCircle10 1/nurbsCircle9 1
+        weight: 1
+      - path: Globle_Rig/nurbsCircle15/nurbsCircle14/nurbsCircle2/nurbsCircle3 1/nurbsCircle4
+          1/nurbsCircle10 1/nurbsCircle9 1/nurbsCircle8 1
+        weight: 1
+      - path: Globle_Rig/nurbsCircle15/nurbsCircle14/nurbsCircle2/nurbsCircle3 1/nurbsCircle4
+          1/nurbsCircle11 1
+        weight: 1
+      - path: Globle_Rig/nurbsCircle15/nurbsCircle14/nurbsCircle2/nurbsCircle3 1/nurbsCircle4
+          1/nurbsCircle11 1/nurbsCircle12 1
+        weight: 1
+      - path: Globle_Rig/nurbsCircle15/nurbsCircle14/nurbsCircle13
+        weight: 1
+      - path: Globle_Rig/nurbsCircle15/nurbsCircle14/nurbsCircle13/nurbsCircle20
+        weight: 1
+      - path: Globle_Rig/nurbsCircle15/nurbsCircle14/nurbsCircle13/nurbsCircle20/nurbsCircle23
+        weight: 1
+      - path: Globle_Rig/nurbsCircle15/nurbsCircle14/nurbsCircle13/nurbsCircle20/nurbsCircle23/nurbsCircle24
+        weight: 1
+      - path: Globle_Rig/nurbsCircle15/nurbsCircle14/nurbsCircle13/nurbsCircle25
+        weight: 1
+      - path: Globle_Rig/nurbsCircle15/nurbsCircle14/nurbsCircle13/nurbsCircle25/nurbsCircle23
+          1
+        weight: 1
+      - path: Globle_Rig/nurbsCircle15/nurbsCircle14/nurbsCircle13/nurbsCircle25/nurbsCircle23
+          1/nurbsCircle24 1
+        weight: 1
+      - path: Globle_Rig/nurbsCircle15/nurbsCircle14/nurbsCircle19
+        weight: 1
+      - path: Globle_Rig/nurbsCircle15/nurbsCircle14/nurbsCircle19/nurbsCircle3
+        weight: 1
+      - path: Globle_Rig/nurbsCircle15/nurbsCircle14/nurbsCircle19/nurbsCircle3/nurbsCircle4
+        weight: 1
+      - path: Globle_Rig/nurbsCircle15/nurbsCircle14/nurbsCircle19/nurbsCircle3/nurbsCircle4/nurbsCircle5
+        weight: 1
+      - path: Globle_Rig/nurbsCircle15/nurbsCircle14/nurbsCircle19/nurbsCircle3/nurbsCircle4/nurbsCircle5/nurbsCircle6
+        weight: 1
+      - path: Globle_Rig/nurbsCircle15/nurbsCircle14/nurbsCircle19/nurbsCircle3/nurbsCircle4/nurbsCircle5/nurbsCircle6/nurbsCircle7
+        weight: 1
+      - path: Globle_Rig/nurbsCircle15/nurbsCircle14/nurbsCircle19/nurbsCircle3/nurbsCircle4/nurbsCircle10
+        weight: 1
+      - path: Globle_Rig/nurbsCircle15/nurbsCircle14/nurbsCircle19/nurbsCircle3/nurbsCircle4/nurbsCircle10/nurbsCircle9
+        weight: 1
+      - path: Globle_Rig/nurbsCircle15/nurbsCircle14/nurbsCircle19/nurbsCircle3/nurbsCircle4/nurbsCircle10/nurbsCircle9/nurbsCircle8
+        weight: 1
+      - path: Globle_Rig/nurbsCircle15/nurbsCircle14/nurbsCircle19/nurbsCircle3/nurbsCircle4/nurbsCircle11
+        weight: 1
+      - path: Globle_Rig/nurbsCircle15/nurbsCircle14/nurbsCircle19/nurbsCircle3/nurbsCircle4/nurbsCircle11/nurbsCircle12
+        weight: 1
+      - path: Globle_Rig/nurbsCircle15/nurbsCircle16
+        weight: 1
+      - path: Globle_Rig/nurbsCircle15/nurbsCircle16/nurbsCircle17
+        weight: 1
+      - path: Globle_Rig/nurbsCircle15/nurbsCircle16/nurbsCircle17/nurbsCircle18
+        weight: 1
+      - path: Globle_Rig/nurbsCircle15/nurbsCircle16/nurbsCircle17/nurbsCircle18/nurbsCircle21
+        weight: 1
+      - path: Globle_Rig/nurbsCircle15/nurbsCircle16/nurbsCircle17/nurbsCircle18/nurbsCircle21/nurbsCircle22
+        weight: 1
+      - path: polySurface31
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

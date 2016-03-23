@@ -1,0 +1,503 @@
+fileFormatVersion: 2
+guid: 2191892099efe98468ae44250d3a2f56
+timeCreated: 1455322926
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: polySurface472
+    100002: pPlane4
+    100004: Sita_Final_polySurface169
+    100006: Sita_Final_sita_body
+    100008: Sita_St_13:curve6
+    100010: Sita_St_13:curve7
+    100012: Sita_St_13:group3
+    100014: Sita_St_13:group4
+    100016: Sita_St_13:joint1
+    100018: Sita_St_13:joint10
+    100020: Sita_St_13:joint103
+    100022: Sita_St_13:joint104
+    100024: Sita_St_13:joint105
+    100026: Sita_St_13:joint106
+    100028: Sita_St_13:joint107
+    100030: Sita_St_13:joint108
+    100032: Sita_St_13:joint109
+    100034: Sita_St_13:joint11
+    100036: Sita_St_13:joint11 1
+    100038: Sita_St_13:joint11 2
+    100040: Sita_St_13:joint11 3
+    100042: Sita_St_13:joint11 4
+    100044: Sita_St_13:joint110
+    100046: Sita_St_13:joint111
+    100048: Sita_St_13:joint112
+    100050: Sita_St_13:joint113
+    100052: Sita_St_13:joint114
+    100054: Sita_St_13:joint115
+    100056: Sita_St_13:joint116
+    100058: Sita_St_13:joint117
+    100060: Sita_St_13:joint118
+    100062: Sita_St_13:joint119
+    100064: Sita_St_13:joint12
+    100066: Sita_St_13:joint12 1
+    100068: Sita_St_13:joint12 2
+    100070: Sita_St_13:joint12 3
+    100072: Sita_St_13:joint12 4
+    100074: Sita_St_13:joint120
+    100076: Sita_St_13:joint121
+    100078: Sita_St_13:joint122
+    100080: Sita_St_13:joint123
+    100082: Sita_St_13:joint124
+    100084: Sita_St_13:joint125
+    100086: Sita_St_13:joint126
+    100088: Sita_St_13:joint127
+    100090: Sita_St_13:joint128
+    100092: Sita_St_13:joint129
+    100094: Sita_St_13:joint13
+    100096: Sita_St_13:joint13 1
+    100098: Sita_St_13:joint13 2
+    100100: Sita_St_13:joint13 3
+    100102: Sita_St_13:joint13 4
+    100104: Sita_St_13:joint14
+    100106: Sita_St_13:joint15
+    100108: Sita_St_13:joint16
+    100110: Sita_St_13:joint17
+    100112: Sita_St_13:joint18
+    100114: Sita_St_13:joint19
+    100116: Sita_St_13:joint2
+    100118: Sita_St_13:joint20
+    100120: Sita_St_13:joint21
+    100122: Sita_St_13:joint22
+    100124: Sita_St_13:joint23
+    100126: Sita_St_13:joint3
+    100128: Sita_St_13:joint4
+    100130: Sita_St_13:joint5
+    100132: Sita_St_13:joint6
+    100134: Sita_St_13:joint7
+    100136: Sita_St_13:joint72
+    100138: Sita_St_13:joint73
+    100140: Sita_St_13:joint74
+    100142: Sita_St_13:joint75
+    100144: Sita_St_13:joint76
+    100146: Sita_St_13:joint9
+    100148: Sita_St_13:joints
+    100150: Sita_St_13:nurbsCircle1
+    100152: Sita_St_13:nurbsCircle10
+    100154: Sita_St_13:nurbsCircle11
+    100156: Sita_St_13:nurbsCircle12
+    100158: Sita_St_13:nurbsCircle13
+    100160: Sita_St_13:nurbsCircle14
+    100162: Sita_St_13:nurbsCircle3
+    100164: Sita_St_13:nurbsCircle4
+    100166: Sita_St_13:nurbsCircle5
+    100168: Sita_St_13:nurbsCircle6
+    100170: Sita_St_13:nurbsCircle8
+    100172: Sita_St_13:nurbsCircle9
+    100174: Sita_St_13:pasted__group1
+    100176: Sita_St_13:polySurface21
+    100178: Sita_St_13:Sita_St_07:Sita_Export:polySurface159
+    100180: Sita_St_13:Sita_St_07:Sita_Export:polySurface160
+    100182: Sita_St_13:transform1
+    100184: Sita_St_13:transform2
+    100186: //RootNode
+    400000: polySurface472
+    400002: pPlane4
+    400004: Sita_Final_polySurface169
+    400006: Sita_Final_sita_body
+    400008: Sita_St_13:curve6
+    400010: Sita_St_13:curve7
+    400012: Sita_St_13:group3
+    400014: Sita_St_13:group4
+    400016: Sita_St_13:joint1
+    400018: Sita_St_13:joint10
+    400020: Sita_St_13:joint103
+    400022: Sita_St_13:joint104
+    400024: Sita_St_13:joint105
+    400026: Sita_St_13:joint106
+    400028: Sita_St_13:joint107
+    400030: Sita_St_13:joint108
+    400032: Sita_St_13:joint109
+    400034: Sita_St_13:joint11
+    400036: Sita_St_13:joint11 1
+    400038: Sita_St_13:joint11 2
+    400040: Sita_St_13:joint11 3
+    400042: Sita_St_13:joint11 4
+    400044: Sita_St_13:joint110
+    400046: Sita_St_13:joint111
+    400048: Sita_St_13:joint112
+    400050: Sita_St_13:joint113
+    400052: Sita_St_13:joint114
+    400054: Sita_St_13:joint115
+    400056: Sita_St_13:joint116
+    400058: Sita_St_13:joint117
+    400060: Sita_St_13:joint118
+    400062: Sita_St_13:joint119
+    400064: Sita_St_13:joint12
+    400066: Sita_St_13:joint12 1
+    400068: Sita_St_13:joint12 2
+    400070: Sita_St_13:joint12 3
+    400072: Sita_St_13:joint12 4
+    400074: Sita_St_13:joint120
+    400076: Sita_St_13:joint121
+    400078: Sita_St_13:joint122
+    400080: Sita_St_13:joint123
+    400082: Sita_St_13:joint124
+    400084: Sita_St_13:joint125
+    400086: Sita_St_13:joint126
+    400088: Sita_St_13:joint127
+    400090: Sita_St_13:joint128
+    400092: Sita_St_13:joint129
+    400094: Sita_St_13:joint13
+    400096: Sita_St_13:joint13 1
+    400098: Sita_St_13:joint13 2
+    400100: Sita_St_13:joint13 3
+    400102: Sita_St_13:joint13 4
+    400104: Sita_St_13:joint14
+    400106: Sita_St_13:joint15
+    400108: Sita_St_13:joint16
+    400110: Sita_St_13:joint17
+    400112: Sita_St_13:joint18
+    400114: Sita_St_13:joint19
+    400116: Sita_St_13:joint2
+    400118: Sita_St_13:joint20
+    400120: Sita_St_13:joint21
+    400122: Sita_St_13:joint22
+    400124: Sita_St_13:joint23
+    400126: Sita_St_13:joint3
+    400128: Sita_St_13:joint4
+    400130: Sita_St_13:joint5
+    400132: Sita_St_13:joint6
+    400134: Sita_St_13:joint7
+    400136: Sita_St_13:joint72
+    400138: Sita_St_13:joint73
+    400140: Sita_St_13:joint74
+    400142: Sita_St_13:joint75
+    400144: Sita_St_13:joint76
+    400146: Sita_St_13:joint9
+    400148: Sita_St_13:joints
+    400150: Sita_St_13:nurbsCircle1
+    400152: Sita_St_13:nurbsCircle10
+    400154: Sita_St_13:nurbsCircle11
+    400156: Sita_St_13:nurbsCircle12
+    400158: Sita_St_13:nurbsCircle13
+    400160: Sita_St_13:nurbsCircle14
+    400162: Sita_St_13:nurbsCircle3
+    400164: Sita_St_13:nurbsCircle4
+    400166: Sita_St_13:nurbsCircle5
+    400168: Sita_St_13:nurbsCircle6
+    400170: Sita_St_13:nurbsCircle8
+    400172: Sita_St_13:nurbsCircle9
+    400174: Sita_St_13:pasted__group1
+    400176: Sita_St_13:polySurface21
+    400178: Sita_St_13:Sita_St_07:Sita_Export:polySurface159
+    400180: Sita_St_13:Sita_St_07:Sita_Export:polySurface160
+    400182: Sita_St_13:transform1
+    400184: Sita_St_13:transform2
+    400186: //RootNode
+    2300000: polySurface472
+    2300002: Sita_Final_polySurface169
+    2300004: Sita_St_13:polySurface21
+    3300000: polySurface472
+    3300002: Sita_Final_polySurface169
+    3300004: Sita_St_13:polySurface21
+    4300000: pPlane4
+    4300002: polySurface472
+    4300004: Sita_St_13:polySurface21
+    4300006: Sita_Final_polySurface169
+    4300008: Sita_Final_sita_body
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: pPlane4
+    13700002: Sita_Final_sita_body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 6
+      lastFrame: 600
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: polySurface472
+        weight: 1
+      - path: pPlane4
+        weight: 1
+      - path: Sita_Final_sita_body
+        weight: 1
+      - path: Sita_St_13:joints
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:group4
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_Final_polySurface169
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint5
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint5/Sita_St_13:joint6
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint5/Sita_St_13:polySurface21
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint5/Sita_St_13:Sita_St_07:Sita_Export:polySurface159
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint5/Sita_St_13:Sita_St_07:Sita_Export:polySurface159/Sita_St_13:transform2
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint5/Sita_St_13:Sita_St_07:Sita_Export:polySurface160
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint5/Sita_St_13:Sita_St_07:Sita_Export:polySurface160/Sita_St_13:transform1
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint21
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint21/Sita_St_13:group3
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint21/Sita_St_13:joint7
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint21/Sita_St_13:joint7/Sita_St_13:joint103
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint21/Sita_St_13:joint7/Sita_St_13:joint103/Sita_St_13:joint104
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint21/Sita_St_13:joint7/Sita_St_13:joint103/Sita_St_13:joint104/Sita_St_13:joint9
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint21/Sita_St_13:joint7/Sita_St_13:joint103/Sita_St_13:joint104/Sita_St_13:joint9/Sita_St_13:joint10
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint21/Sita_St_13:joint7/Sita_St_13:joint103/Sita_St_13:joint104/Sita_St_13:joint9/Sita_St_13:joint10/Sita_St_13:joint11
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint21/Sita_St_13:joint7/Sita_St_13:joint103/Sita_St_13:joint104/Sita_St_13:joint9/Sita_St_13:joint10/Sita_St_13:joint11/Sita_St_13:joint12
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint21/Sita_St_13:joint7/Sita_St_13:joint103/Sita_St_13:joint104/Sita_St_13:joint9/Sita_St_13:joint10/Sita_St_13:joint11/Sita_St_13:joint12/Sita_St_13:joint13
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint21/Sita_St_13:joint7/Sita_St_13:joint103/Sita_St_13:joint104/Sita_St_13:joint9/Sita_St_13:joint14
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint21/Sita_St_13:joint7/Sita_St_13:joint103/Sita_St_13:joint104/Sita_St_13:joint9/Sita_St_13:joint14/Sita_St_13:joint11
+          1
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint21/Sita_St_13:joint7/Sita_St_13:joint103/Sita_St_13:joint104/Sita_St_13:joint9/Sita_St_13:joint14/Sita_St_13:joint11
+          1/Sita_St_13:joint12 1
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint21/Sita_St_13:joint7/Sita_St_13:joint103/Sita_St_13:joint104/Sita_St_13:joint9/Sita_St_13:joint14/Sita_St_13:joint11
+          1/Sita_St_13:joint12 1/Sita_St_13:joint13 1
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint21/Sita_St_13:joint7/Sita_St_13:joint103/Sita_St_13:joint104/Sita_St_13:joint9/Sita_St_13:joint15
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint21/Sita_St_13:joint7/Sita_St_13:joint103/Sita_St_13:joint104/Sita_St_13:joint9/Sita_St_13:joint15/Sita_St_13:joint11
+          2
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint21/Sita_St_13:joint7/Sita_St_13:joint103/Sita_St_13:joint104/Sita_St_13:joint9/Sita_St_13:joint15/Sita_St_13:joint11
+          2/Sita_St_13:joint12 2
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint21/Sita_St_13:joint7/Sita_St_13:joint103/Sita_St_13:joint104/Sita_St_13:joint9/Sita_St_13:joint15/Sita_St_13:joint11
+          2/Sita_St_13:joint12 2/Sita_St_13:joint13 2
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint21/Sita_St_13:joint7/Sita_St_13:joint103/Sita_St_13:joint104/Sita_St_13:joint9/Sita_St_13:joint16
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint21/Sita_St_13:joint7/Sita_St_13:joint103/Sita_St_13:joint104/Sita_St_13:joint9/Sita_St_13:joint16/Sita_St_13:joint11
+          3
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint21/Sita_St_13:joint7/Sita_St_13:joint103/Sita_St_13:joint104/Sita_St_13:joint9/Sita_St_13:joint16/Sita_St_13:joint11
+          3/Sita_St_13:joint12 3
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint21/Sita_St_13:joint7/Sita_St_13:joint103/Sita_St_13:joint104/Sita_St_13:joint9/Sita_St_13:joint16/Sita_St_13:joint11
+          3/Sita_St_13:joint12 3/Sita_St_13:joint13 3
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint21/Sita_St_13:joint7/Sita_St_13:joint103/Sita_St_13:joint104/Sita_St_13:joint9/Sita_St_13:joint17
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint21/Sita_St_13:joint7/Sita_St_13:joint103/Sita_St_13:joint104/Sita_St_13:joint9/Sita_St_13:joint17/Sita_St_13:joint11
+          4
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint21/Sita_St_13:joint7/Sita_St_13:joint103/Sita_St_13:joint104/Sita_St_13:joint9/Sita_St_13:joint17/Sita_St_13:joint11
+          4/Sita_St_13:joint12 4
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint21/Sita_St_13:joint7/Sita_St_13:joint103/Sita_St_13:joint104/Sita_St_13:joint9/Sita_St_13:joint17/Sita_St_13:joint11
+          4/Sita_St_13:joint12 4/Sita_St_13:joint13 4
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint105
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint105/Sita_St_13:joint106
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint105/Sita_St_13:joint106/Sita_St_13:joint107
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint105/Sita_St_13:joint106/Sita_St_13:joint107/Sita_St_13:joint108
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint105/Sita_St_13:joint106/Sita_St_13:joint107/Sita_St_13:joint108/Sita_St_13:joint109
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint105/Sita_St_13:joint106/Sita_St_13:joint107/Sita_St_13:joint108/Sita_St_13:joint109/Sita_St_13:joint110
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint105/Sita_St_13:joint106/Sita_St_13:joint107/Sita_St_13:joint108/Sita_St_13:joint109/Sita_St_13:joint110/Sita_St_13:joint111
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint105/Sita_St_13:joint106/Sita_St_13:joint107/Sita_St_13:joint108/Sita_St_13:joint109/Sita_St_13:joint110/Sita_St_13:joint111/Sita_St_13:joint112
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint105/Sita_St_13:joint106/Sita_St_13:joint107/Sita_St_13:joint108/Sita_St_13:joint109/Sita_St_13:joint110/Sita_St_13:joint111/Sita_St_13:joint112/Sita_St_13:joint113
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint105/Sita_St_13:joint106/Sita_St_13:joint107/Sita_St_13:joint108/Sita_St_13:joint109/Sita_St_13:joint114
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint105/Sita_St_13:joint106/Sita_St_13:joint107/Sita_St_13:joint108/Sita_St_13:joint109/Sita_St_13:joint114/Sita_St_13:joint115
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint105/Sita_St_13:joint106/Sita_St_13:joint107/Sita_St_13:joint108/Sita_St_13:joint109/Sita_St_13:joint114/Sita_St_13:joint115/Sita_St_13:joint116
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint105/Sita_St_13:joint106/Sita_St_13:joint107/Sita_St_13:joint108/Sita_St_13:joint109/Sita_St_13:joint114/Sita_St_13:joint115/Sita_St_13:joint116/Sita_St_13:joint117
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint105/Sita_St_13:joint106/Sita_St_13:joint107/Sita_St_13:joint108/Sita_St_13:joint109/Sita_St_13:joint118
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint105/Sita_St_13:joint106/Sita_St_13:joint107/Sita_St_13:joint108/Sita_St_13:joint109/Sita_St_13:joint118/Sita_St_13:joint119
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint105/Sita_St_13:joint106/Sita_St_13:joint107/Sita_St_13:joint108/Sita_St_13:joint109/Sita_St_13:joint118/Sita_St_13:joint119/Sita_St_13:joint120
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint105/Sita_St_13:joint106/Sita_St_13:joint107/Sita_St_13:joint108/Sita_St_13:joint109/Sita_St_13:joint118/Sita_St_13:joint119/Sita_St_13:joint120/Sita_St_13:joint121
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint105/Sita_St_13:joint106/Sita_St_13:joint107/Sita_St_13:joint108/Sita_St_13:joint109/Sita_St_13:joint122
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint105/Sita_St_13:joint106/Sita_St_13:joint107/Sita_St_13:joint108/Sita_St_13:joint109/Sita_St_13:joint122/Sita_St_13:joint123
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint105/Sita_St_13:joint106/Sita_St_13:joint107/Sita_St_13:joint108/Sita_St_13:joint109/Sita_St_13:joint122/Sita_St_13:joint123/Sita_St_13:joint124
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint105/Sita_St_13:joint106/Sita_St_13:joint107/Sita_St_13:joint108/Sita_St_13:joint109/Sita_St_13:joint122/Sita_St_13:joint123/Sita_St_13:joint124/Sita_St_13:joint125
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint105/Sita_St_13:joint106/Sita_St_13:joint107/Sita_St_13:joint108/Sita_St_13:joint109/Sita_St_13:joint126
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint105/Sita_St_13:joint106/Sita_St_13:joint107/Sita_St_13:joint108/Sita_St_13:joint109/Sita_St_13:joint126/Sita_St_13:joint127
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint105/Sita_St_13:joint106/Sita_St_13:joint107/Sita_St_13:joint108/Sita_St_13:joint109/Sita_St_13:joint126/Sita_St_13:joint127/Sita_St_13:joint128
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint105/Sita_St_13:joint106/Sita_St_13:joint107/Sita_St_13:joint108/Sita_St_13:joint109/Sita_St_13:joint126/Sita_St_13:joint127/Sita_St_13:joint128/Sita_St_13:joint129
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint2/Sita_St_13:joint3/Sita_St_13:joint4/Sita_St_13:joint105/Sita_St_13:joint106/Sita_St_13:joint107/Sita_St_13:joint108/Sita_St_13:joint109/Sita_St_13:pasted__group1
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint18
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint18/Sita_St_13:joint19
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint18/Sita_St_13:joint19/Sita_St_13:joint20
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint18/Sita_St_13:joint19/Sita_St_13:joint20/Sita_St_13:joint23
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint18/Sita_St_13:joint19/Sita_St_13:joint20/Sita_St_13:joint23/Sita_St_13:joint22
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint72
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint72/Sita_St_13:joint73
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint72/Sita_St_13:joint73/Sita_St_13:joint74
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint72/Sita_St_13:joint73/Sita_St_13:joint74/Sita_St_13:joint75
+        weight: 1
+      - path: Sita_St_13:joints/Sita_St_13:joint1/Sita_St_13:joint72/Sita_St_13:joint73/Sita_St_13:joint74/Sita_St_13:joint75/Sita_St_13:joint76
+        weight: 1
+      - path: Sita_St_13:nurbsCircle14
+        weight: 1
+      - path: Sita_St_13:nurbsCircle14/Sita_St_13:nurbsCircle13
+        weight: 1
+      - path: Sita_St_13:nurbsCircle14/Sita_St_13:nurbsCircle13/Sita_St_13:nurbsCircle6
+        weight: 1
+      - path: Sita_St_13:nurbsCircle14/Sita_St_13:nurbsCircle13/Sita_St_13:nurbsCircle6/Sita_St_13:nurbsCircle5
+        weight: 1
+      - path: Sita_St_13:nurbsCircle14/Sita_St_13:nurbsCircle13/Sita_St_13:nurbsCircle6/Sita_St_13:nurbsCircle5/Sita_St_13:nurbsCircle4
+        weight: 1
+      - path: Sita_St_13:nurbsCircle14/Sita_St_13:nurbsCircle13/Sita_St_13:nurbsCircle6/Sita_St_13:nurbsCircle5/Sita_St_13:nurbsCircle4/Sita_St_13:curve6
+        weight: 1
+      - path: Sita_St_13:nurbsCircle14/Sita_St_13:nurbsCircle13/Sita_St_13:nurbsCircle6/Sita_St_13:nurbsCircle5/Sita_St_13:nurbsCircle4/Sita_St_13:curve7
+        weight: 1
+      - path: Sita_St_13:nurbsCircle14/Sita_St_13:nurbsCircle13/Sita_St_13:nurbsCircle6/Sita_St_13:nurbsCircle5/Sita_St_13:nurbsCircle4/Sita_St_13:nurbsCircle3
+        weight: 1
+      - path: Sita_St_13:nurbsCircle14/Sita_St_13:nurbsCircle13/Sita_St_13:nurbsCircle6/Sita_St_13:nurbsCircle5/Sita_St_13:nurbsCircle4/Sita_St_13:nurbsCircle8
+        weight: 1
+      - path: Sita_St_13:nurbsCircle14/Sita_St_13:nurbsCircle13/Sita_St_13:nurbsCircle6/Sita_St_13:nurbsCircle5/Sita_St_13:nurbsCircle4/Sita_St_13:nurbsCircle8/Sita_St_13:nurbsCircle12
+        weight: 1
+      - path: Sita_St_13:nurbsCircle14/Sita_St_13:nurbsCircle13/Sita_St_13:nurbsCircle6/Sita_St_13:nurbsCircle5/Sita_St_13:nurbsCircle4/Sita_St_13:nurbsCircle11
+        weight: 1
+      - path: Sita_St_13:nurbsCircle14/Sita_St_13:nurbsCircle13/Sita_St_13:nurbsCircle6/Sita_St_13:nurbsCircle5/Sita_St_13:nurbsCircle4/Sita_St_13:nurbsCircle11/Sita_St_13:nurbsCircle1
+        weight: 1
+      - path: Sita_St_13:nurbsCircle14/Sita_St_13:nurbsCircle13/Sita_St_13:nurbsCircle9
+        weight: 1
+      - path: Sita_St_13:nurbsCircle14/Sita_St_13:nurbsCircle13/Sita_St_13:nurbsCircle10
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

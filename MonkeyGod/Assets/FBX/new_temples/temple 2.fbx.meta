@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: 2b992aa49120fd2418790eec65e9bb8c
+timeCreated: 1449202474
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: temple_2
+    100004: vine_10
+    100006: vine_11
+    100008: vine_12
+    100010: vine_13
+    100012: vine_14
+    100014: vine_15
+    100016: vine_16
+    100018: vine_17
+    100020: vine_18
+    100022: vine_19
+    100024: vine_4
+    100026: vine_55
+    100028: vine_9
+    400000: //RootNode
+    400002: temple_2
+    400004: vine_10
+    400006: vine_11
+    400008: vine_12
+    400010: vine_13
+    400012: vine_14
+    400014: vine_15
+    400016: vine_16
+    400018: vine_17
+    400020: vine_18
+    400022: vine_19
+    400024: vine_4
+    400026: vine_55
+    400028: vine_9
+    2300000: temple_2
+    2300002: vine_10
+    2300004: vine_11
+    2300006: vine_12
+    2300008: vine_13
+    2300010: vine_14
+    2300012: vine_15
+    2300014: vine_16
+    2300016: vine_17
+    2300018: vine_18
+    2300020: vine_19
+    2300022: vine_4
+    2300024: vine_55
+    2300026: vine_9
+    3300000: temple_2
+    3300002: vine_10
+    3300004: vine_11
+    3300006: vine_12
+    3300008: vine_13
+    3300010: vine_14
+    3300012: vine_15
+    3300014: vine_16
+    3300016: vine_17
+    3300018: vine_18
+    3300020: vine_19
+    3300022: vine_4
+    3300024: vine_55
+    3300026: vine_9
+    4300000: temple_2
+    4300002: vine_55
+    4300004: vine_4
+    4300006: vine_9
+    4300008: vine_10
+    4300010: vine_11
+    4300012: vine_12
+    4300014: vine_13
+    4300016: vine_14
+    4300018: vine_15
+    4300020: vine_16
+    4300022: vine_17
+    4300024: vine_18
+    4300026: vine_19
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

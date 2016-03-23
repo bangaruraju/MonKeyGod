@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: a4644c1a693440d47baaf932c83169b5
+timeCreated: 1457514141
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Eyes
+    100002: Hed
+    100004: //RootNode
+    100006: Jelly_Boy
+    100008: L_Ear_1
+    100010: L_Ear_2
+    100012: L_Ear_3
+    100014: L_Eye
+    100016: L_Fingers
+    100018: L_Foot
+    100020: l_Leg
+    100022: L_Nea
+    100024: Lower_Jaw
+    100026: Main_bone
+    100028: nurbsCircle1
+    100030: nurbsCircle2
+    100032: nurbsCircle6
+    100034: nurbsCircle7
+    100036: R_Ear_1
+    100038: R_Ear_2
+    100040: R_Ear_3
+    100042: R_Eye
+    100044: R_Fingers
+    100046: R_Foot
+    100048: R_Leg
+    100050: R_Nea
+    100052: Tung_1
+    100054: Tung_2
+    100056: Tung_3
+    100058: Tung_4
+    100060: Tung_5
+    100062: Upper_jaw
+    400000: Eyes
+    400002: Hed
+    400004: //RootNode
+    400006: Jelly_Boy
+    400008: L_Ear_1
+    400010: L_Ear_2
+    400012: L_Ear_3
+    400014: L_Eye
+    400016: L_Fingers
+    400018: L_Foot
+    400020: l_Leg
+    400022: L_Nea
+    400024: Lower_Jaw
+    400026: Main_bone
+    400028: nurbsCircle1
+    400030: nurbsCircle2
+    400032: nurbsCircle6
+    400034: nurbsCircle7
+    400036: R_Ear_1
+    400038: R_Ear_2
+    400040: R_Ear_3
+    400042: R_Eye
+    400044: R_Fingers
+    400046: R_Foot
+    400048: R_Leg
+    400050: R_Nea
+    400052: Tung_1
+    400054: Tung_2
+    400056: Tung_3
+    400058: Tung_4
+    400060: Tung_5
+    400062: Upper_jaw
+    4300000: Jelly_Boy
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Jelly_Boy
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

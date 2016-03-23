@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: 08fd5d6f5ef9dd0489c6b1e8acc39b75
+timeCreated: 1444044799
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Forest_Man_ST_02:Akul
+    100004: Forest_Man_ST_02:Ankil
+    100006: Forest_Man_ST_02:Boll
+    100008: Forest_Man_ST_02:Globle_Control
+    100010: Forest_Man_ST_02:group1
+    100012: Forest_Man_ST_02:group2
+    100014: Forest_Man_ST_02:group3
+    100016: Forest_Man_ST_02:Hand_Import
+    100018: Forest_Man_ST_02:Hand_Rigg_Import:Ankil
+    100020: Forest_Man_ST_02:Hand_Rigg_Import:Boll
+    100022: Forest_Man_ST_02:Hand_Rigg_Import:group1
+    100024: Forest_Man_ST_02:Hand_Rigg_Import:group2
+    100026: Forest_Man_ST_02:Hand_Rigg_Import:group3
+    100028: Forest_Man_ST_02:Hand_Rigg_Import:Hand_Import
+    100030: Forest_Man_ST_02:Hand_Rigg_Import:Hip
+    100032: Forest_Man_ST_02:Hand_Rigg_Import:ikHandle1
+    100034: Forest_Man_ST_02:Hand_Rigg_Import:ikHandle2
+    100036: Forest_Man_ST_02:Hand_Rigg_Import:ikHandle3
+    100038: Forest_Man_ST_02:Hand_Rigg_Import:joint13
+    100040: Forest_Man_ST_02:Hand_Rigg_Import:joint14
+    100042: Forest_Man_ST_02:Hand_Rigg_Import:joint15
+    100044: Forest_Man_ST_02:Hand_Rigg_Import:joint16
+    100046: Forest_Man_ST_02:Hand_Rigg_Import:joint17
+    100048: Forest_Man_ST_02:Hand_Rigg_Import:Knee
+    100050: Forest_Man_ST_02:Hand_Rigg_Import:Leg_Import
+    100052: Forest_Man_ST_02:Hand_Rigg_Import:nurbsCircle1
+    100054: Forest_Man_ST_02:Hand_Rigg_Import:nurbsCircle2
+    100056: Forest_Man_ST_02:Hand_Rigg_Import:nurbsCircle3
+    100058: Forest_Man_ST_02:Hand_Rigg_Import:nurbsCircle4
+    100060: Forest_Man_ST_02:Hand_Rigg_Import:nurbsCircle5
+    100062: Forest_Man_ST_02:Hand_Rigg_Import:Toe
+    100064: Forest_Man_ST_02:Hip
+    100066: Forest_Man_ST_02:ikHandle1
+    100068: Forest_Man_ST_02:ikHandle2
+    100070: Forest_Man_ST_02:ikHandle3
+    100072: Forest_Man_ST_02:joint13
+    100074: Forest_Man_ST_02:joint14
+    100076: Forest_Man_ST_02:joint15
+    100078: Forest_Man_ST_02:joint16
+    100080: Forest_Man_ST_02:joint17
+    100082: Forest_Man_ST_02:Knee
+    100084: Forest_Man_ST_02:Leg_Import
+    100086: Forest_Man_ST_02:LW_Spline
+    100088: Forest_Man_ST_02:Neck
+    100090: Forest_Man_ST_02:nurbsCircle1
+    100092: Forest_Man_ST_02:nurbsCircle2
+    100094: Forest_Man_ST_02:nurbsCircle3
+    100096: Forest_Man_ST_02:nurbsCircle4
+    100098: Forest_Man_ST_02:nurbsCircle5
+    100100: Forest_Man_ST_02:nurbsCircle6
+    100102: Forest_Man_ST_02:nurbsCircle7
+    100104: Forest_Man_ST_02:nurbsCircle8
+    100106: Forest_Man_ST_02:nurbsCircle9
+    100108: Forest_Man_ST_02:pCylinder1
+    100110: Forest_Man_ST_02:polySurface10
+    100112: Forest_Man_ST_02:Root
+    100114: Forest_Man_ST_02:Spline_01
+    100116: Forest_Man_ST_02:Spline_02
+    100118: Forest_Man_ST_02:Spline_03
+    100120: Forest_Man_ST_02:Toe
+    100122: Forest_Man_ST_02:Total_Rigg
+    100124: Forest_Man_ST_02:transform4
+    100126: Forest_Man_ST_02:transform5
+    400000: //RootNode
+    400002: Forest_Man_ST_02:Akul
+    400004: Forest_Man_ST_02:Ankil
+    400006: Forest_Man_ST_02:Boll
+    400008: Forest_Man_ST_02:Globle_Control
+    400010: Forest_Man_ST_02:group1
+    400012: Forest_Man_ST_02:group2
+    400014: Forest_Man_ST_02:group3
+    400016: Forest_Man_ST_02:Hand_Import
+    400018: Forest_Man_ST_02:Hand_Rigg_Import:Ankil
+    400020: Forest_Man_ST_02:Hand_Rigg_Import:Boll
+    400022: Forest_Man_ST_02:Hand_Rigg_Import:group1
+    400024: Forest_Man_ST_02:Hand_Rigg_Import:group2
+    400026: Forest_Man_ST_02:Hand_Rigg_Import:group3
+    400028: Forest_Man_ST_02:Hand_Rigg_Import:Hand_Import
+    400030: Forest_Man_ST_02:Hand_Rigg_Import:Hip
+    400032: Forest_Man_ST_02:Hand_Rigg_Import:ikHandle1
+    400034: Forest_Man_ST_02:Hand_Rigg_Import:ikHandle2
+    400036: Forest_Man_ST_02:Hand_Rigg_Import:ikHandle3
+    400038: Forest_Man_ST_02:Hand_Rigg_Import:joint13
+    400040: Forest_Man_ST_02:Hand_Rigg_Import:joint14
+    400042: Forest_Man_ST_02:Hand_Rigg_Import:joint15
+    400044: Forest_Man_ST_02:Hand_Rigg_Import:joint16
+    400046: Forest_Man_ST_02:Hand_Rigg_Import:joint17
+    400048: Forest_Man_ST_02:Hand_Rigg_Import:Knee
+    400050: Forest_Man_ST_02:Hand_Rigg_Import:Leg_Import
+    400052: Forest_Man_ST_02:Hand_Rigg_Import:nurbsCircle1
+    400054: Forest_Man_ST_02:Hand_Rigg_Import:nurbsCircle2
+    400056: Forest_Man_ST_02:Hand_Rigg_Import:nurbsCircle3
+    400058: Forest_Man_ST_02:Hand_Rigg_Import:nurbsCircle4
+    400060: Forest_Man_ST_02:Hand_Rigg_Import:nurbsCircle5
+    400062: Forest_Man_ST_02:Hand_Rigg_Import:Toe
+    400064: Forest_Man_ST_02:Hip
+    400066: Forest_Man_ST_02:ikHandle1
+    400068: Forest_Man_ST_02:ikHandle2
+    400070: Forest_Man_ST_02:ikHandle3
+    400072: Forest_Man_ST_02:joint13
+    400074: Forest_Man_ST_02:joint14
+    400076: Forest_Man_ST_02:joint15
+    400078: Forest_Man_ST_02:joint16
+    400080: Forest_Man_ST_02:joint17
+    400082: Forest_Man_ST_02:Knee
+    400084: Forest_Man_ST_02:Leg_Import
+    400086: Forest_Man_ST_02:LW_Spline
+    400088: Forest_Man_ST_02:Neck
+    400090: Forest_Man_ST_02:nurbsCircle1
+    400092: Forest_Man_ST_02:nurbsCircle2
+    400094: Forest_Man_ST_02:nurbsCircle3
+    400096: Forest_Man_ST_02:nurbsCircle4
+    400098: Forest_Man_ST_02:nurbsCircle5
+    400100: Forest_Man_ST_02:nurbsCircle6
+    400102: Forest_Man_ST_02:nurbsCircle7
+    400104: Forest_Man_ST_02:nurbsCircle8
+    400106: Forest_Man_ST_02:nurbsCircle9
+    400108: Forest_Man_ST_02:pCylinder1
+    400110: Forest_Man_ST_02:polySurface10
+    400112: Forest_Man_ST_02:Root
+    400114: Forest_Man_ST_02:Spline_01
+    400116: Forest_Man_ST_02:Spline_02
+    400118: Forest_Man_ST_02:Spline_03
+    400120: Forest_Man_ST_02:Toe
+    400122: Forest_Man_ST_02:Total_Rigg
+    400124: Forest_Man_ST_02:transform4
+    400126: Forest_Man_ST_02:transform5
+    2300000: Forest_Man_ST_02:pCylinder1
+    3300000: Forest_Man_ST_02:pCylinder1
+    4300000: Forest_Man_ST_02:pCylinder1
+    4300002: Forest_Man_ST_02:polySurface10
+    6400000: Forest_Man_ST_02:pCylinder1
+    9500000: //RootNode
+    13700000: Forest_Man_ST_02:polySurface10
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

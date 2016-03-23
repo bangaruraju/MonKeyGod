@@ -1,0 +1,3478 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Run
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:nurbsCircle8
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: .0149045605, w: .999888957}
+        inSlope: {x: 0, y: 0, z: -.0245326236, w: .000353336334}
+        outSlope: {x: 0, y: 0, z: -.0245326236, w: .000353336334}
+        tangentMode: 0
+      - time: .5
+        value: {x: 0, y: -0, z: -.00547294039, w: .999985039}
+        inSlope: {x: 0, y: 0, z: .122965023, w: .000630140014}
+        outSlope: {x: 0, y: 0, z: .122965023, w: .000630140014}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 0, y: 0, z: .0114672352, w: .999954939}
+        inSlope: {x: 0, y: 0, z: .0440696292, w: -.000566164672}
+        outSlope: {x: 0, y: 0, z: .0440696292, w: -.000566164672}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:nurbsCircle8/Forest_Man_ST_02:nurbsCircle6/Forest_Man_ST_02:nurbsCircle9
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .0482305028, y: -.00940096565, z: -.0117423972, w: .99872297}
+        inSlope: {x: -.0923658907, y: .0002791062, z: .0304583386, w: .00462341309}
+        outSlope: {x: -.0923658907, y: .0002791062, z: .0304583386, w: .00462341309}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: -.0349203274, y: -.0113559933, z: .0155631518, w: .999204397}
+        inSlope: {x: -.391270936, y: -.0197122898, z: .127689436, w: -.015284298}
+        outSlope: {x: -.391270936, y: -.0197122898, z: .127689436, w: -.015284298}
+        tangentMode: 0
+      - time: .458333343
+        value: {x: -.0464646965, y: -.011992937, z: .0193251725, w: .998660982}
+        inSlope: {x: .367628902, y: .021056734, z: -.119709969, w: .0185987912}
+        outSlope: {x: .367628902, y: .021056734, z: -.119709969, w: .0185987912}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: .0482305028, y: -.00940096565, z: -.0117423972, w: .99872297}
+        inSlope: {x: .0578668825, y: -.0001559706, z: -.0190815218, w: -.00286531728}
+        outSlope: {x: .0578668825, y: -.0001559706, z: -.0190815218, w: -.00286531728}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:nurbsCircle8/Forest_Man_ST_02:nurbsCircle6/Forest_Man_ST_02:nurbsCircle9/Forest_Man_ST_02:nurbsCircle7
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.466734827, y: -.0650782436, z: .216432169, w: .855032504}
+        inSlope: {x: -.0127973557, y: .185062766, z: -.240458965, w: .0656132698}
+        outSlope: {x: -.0127973557, y: .185062766, z: -.240458965, w: .0656132698}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: -.468094587, y: -.0366871059, z: .179380417, w: .864502251}
+        inSlope: {x: -.00562691828, y: .607173681, z: -.799084902, w: .179345369}
+        outSlope: {x: -.00562691828, y: .607173681, z: -.799084902, w: .179345369}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.459236175, y: .065278478, z: .0420024581, w: .884916186}
+        inSlope: {x: .164500922, y: .853410125, z: -1.18278027, w: .081099987}
+        outSlope: {x: .164500922, y: .853410125, z: -1.18278027, w: .081099987}
+        tangentMode: 0
+      - time: .416666687
+        value: {x: -.43624562, y: .145553082, z: -.0724187493, w: .8850196}
+        inSlope: {x: -.143234283, y: -.393167853, z: .574245334, w: .0303347185}
+        outSlope: {x: -.143234283, y: -.393167853, z: .574245334, w: .0303347185}
+        tangentMode: 0
+      - time: .541666687
+        value: {x: -.462439001, y: .0469664559, z: .0672452301, w: .882849038}
+        inSlope: {x: -.151213646, y: -.974677026, z: 1.33679724, w: -.129110873}
+        outSlope: {x: -.151213646, y: -.974677026, z: 1.33679724, w: -.129110873}
+        tangentMode: 0
+      - time: .666666687
+        value: {x: -.467383564, y: -.0554159544, z: .203872532, w: .858439088}
+        inSlope: {x: .0172755755, y: -.421835095, z: .55132997, w: -.137809753}
+        outSlope: {x: .0172755755, y: -.421835095, z: .55132997, w: -.137809753}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.466895431, y: -.0657327473, z: .217338532, w: .855003834}
+        inSlope: {x: .00691986084, y: -.103064597, z: .133969545, w: -.0363368988}
+        outSlope: {x: .00691986084, y: -.103064597, z: .133969545, w: -.0363368988}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:nurbsCircle8/Forest_Man_ST_02:nurbsCircle6/Forest_Man_ST_02:nurbsCircle9/Forest_Man_ST_02:nurbsCircle1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0823964849, y: .197568029, z: .43189925, w: .876151085}
+        inSlope: {x: -.132003844, y: .0492399931, z: -.281171322, w: .11243391}
+        outSlope: {x: -.132003844, y: .0492399931, z: -.281171322, w: .11243391}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: -.102311775, y: .206057906, z: .388718218, w: .89217186}
+        inSlope: {x: -.411331594, y: .217326164, z: -.924096823, w: .295753241}
+        outSlope: {x: -.411331594, y: .217326164, z: -.924096823, w: .295753241}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.163885191, y: .25678131, z: .234296396, w: .923206508}
+        inSlope: {x: -.433768421, y: .547575355, z: -1.27670407, w: .0982360989}
+        outSlope: {x: -.433768421, y: .547575355, z: -1.27670407, w: .0982360989}
+        tangentMode: 0
+      - time: .416666687
+        value: {x: -.196615949, y: .317411989, z: .116348617, w: .920355856}
+        inSlope: {x: .124912649, y: -.331317991, z: .567489207, w: .0599270016}
+        outSlope: {x: .124912649, y: -.331317991, z: .567489207, w: .0599270016}
+        tangentMode: 0
+      - time: .541666687
+        value: {x: -.154227406, y: .245433003, z: .261784881, w: .92056793}
+        inSlope: {x: .530707598, y: -.577059507, z: 1.46601129, w: -.175742716}
+        outSlope: {x: .530707598, y: -.577059507, z: 1.46601129, w: -.175742716}
+        tangentMode: 0
+      - time: .666666687
+        value: {x: -.0892782211, y: .200169176, z: .417217165, w: .881981611}
+        inSlope: {x: .294157922, y: -.130639479, z: .64171809, w: -.232140541}
+        outSlope: {x: .294157922, y: -.130639479, z: .64171809, w: -.232140541}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.0820467025, y: .197075546, z: .432907283, w: .876171052}
+        inSlope: {x: .0734053254, y: -.0277457237, z: .156609535, w: -.0621919632}
+        outSlope: {x: .0734053254, y: -.0277457237, z: .156609535, w: -.0621919632}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:nurbsCircle8/Forest_Man_ST_02:nurbsCircle6/Forest_Man_ST_02:nurbsCircle9/Forest_Man_ST_02:nurbsCircle1/Forest_Man_ST_02:nurbsCircle2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:nurbsCircle8/Forest_Man_ST_02:nurbsCircle6/Forest_Man_ST_02:nurbsCircle9/Forest_Man_ST_02:nurbsCircle1/Forest_Man_ST_02:nurbsCircle2/Forest_Man_ST_02:nurbsCircle3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.545090199, y: -.107226238, z: -.299934894, w: .775511622}
+        inSlope: {x: .312613964, y: .201604486, z: .198396206, w: .316864014}
+        outSlope: {x: .312613964, y: .201604486, z: .198396206, w: .316864014}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: -.532064617, y: -.0988260508, z: -.291668385, w: .78871429}
+        inSlope: {x: .599411488, y: .385796905, z: .348286271, w: .558764219}
+        outSlope: {x: .599411488, y: .385796905, z: .348286271, w: .558764219}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: -.361579984, y: .0100985812, z: -.219953284, w: .905968249}
+        inSlope: {x: 1.92403483, y: 1.21869946, z: .514198959, w: .871576309}
+        outSlope: {x: 1.92403483, y: 1.21869946, z: .514198959, w: .871576309}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: -.19199802, y: .116713546, z: -.192518726, w: .955223143}
+        inSlope: {x: 1.88959658, y: 1.17915869, z: .133087233, w: .281143337}
+        outSlope: {x: 1.88959658, y: 1.17915869, z: .133087233, w: .281143337}
+        tangentMode: 0
+      - time: .37500003
+        value: {x: -.0496519022, y: .204874963, z: -.194260016, w: .958031297}
+        inSlope: {x: -.0572765172, y: -.0352949351, z: .00369538181, w: .0035648495}
+        outSlope: {x: -.0572765172, y: -.0352949351, z: .00369538181, w: .0035648495}
+        tangentMode: 0
+      - time: .5
+        value: {x: -.222947642, y: .0973818079, z: -.194995776, w: .950151503}
+        inSlope: {x: -2.20885229, y: -1.38228679, z: -.23031348, w: -.444697887}
+        outSlope: {x: -2.20885229, y: -1.38228679, z: -.23031348, w: -.444697887}
+        tangentMode: 0
+      - time: .583333313
+        value: {x: -.410333961, y: -.0208665002, z: -.2349132, w: .880912244}
+        inSlope: {x: -1.95312953, y: -1.24233699, z: -.656726658, w: -1.09138465}
+        outSlope: {x: -1.95312953, y: -1.24233699, z: -.656726658, w: -1.09138465}
+        tangentMode: 0
+      - time: .666666687
+        value: {x: -.528703094, y: -.0966602042, z: -.289621174, w: .791990817}
+        inSlope: {x: -.751565635, y: -.483406335, z: -.424219579, w: -.681631505}
+        outSlope: {x: -.751565635, y: -.483406335, z: -.424219579, w: -.681631505}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.546869516, y: -.108351514, z: -.30015099, w: .775095582}
+        inSlope: {x: -.174796104, y: -.112704515, z: -.110013008, w: -.175778389}
+        outSlope: {x: -.174796104, y: -.112704515, z: -.110013008, w: -.175778389}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:nurbsCircle8/Forest_Man_ST_02:nurbsCircle6/Forest_Man_ST_02:nurbsCircle9/Forest_Man_ST_02:Hand_Rigg_Import:Hand_Import/Forest_Man_ST_02:Hand_Rigg_Import:nurbsCircle1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.254866242, y: .283311278, z: .00717522437, w: .924514174}
+        inSlope: {x: .017947197, y: .0440483093, z: -.13627471, w: -.00796365738}
+        outSlope: {x: .017947197, y: .0440483093, z: -.13627471, w: -.00796365738}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: -.244833231, y: .305729061, z: -.061471805, w: .91804558}
+        inSlope: {x: .103347667, y: .209542394, z: -.634651065, w: -.0852484778}
+        outSlope: {x: .103347667, y: .209542394, z: -.634651065, w: -.0852484778}
+        tangentMode: 0
+      - time: .416666687
+        value: {x: -.228704438, y: .334867388, z: -.148620486, w: .901925743}
+        inSlope: {x: -.0614794642, y: -.100983046, z: .298865557, w: .0689041764}
+        outSlope: {x: -.0614794642, y: -.100983046, z: .298865557, w: .0689041764}
+        tangentMode: 0
+      - time: .625
+        value: {x: -.251347959, y: .291687638, z: -.0186528899, w: .922710478}
+        inSlope: {x: -.0778094158, y: -.176322967, z: .540726542, w: .0480415598}
+        outSlope: {x: -.0778094158, y: -.176322967, z: .540726542, w: .0480415598}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.255141914, y: .282985508, z: .00807019416, w: .924957395}
+        inSlope: {x: -.0187641382, y: -.0446739197, z: .13775003, w: .00961971283}
+        outSlope: {x: -.0187641382, y: -.0446739197, z: .13775003, w: .00961971283}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:nurbsCircle8/Forest_Man_ST_02:nurbsCircle6/Forest_Man_ST_02:nurbsCircle9/Forest_Man_ST_02:Hand_Rigg_Import:Hand_Import/Forest_Man_ST_02:Hand_Rigg_Import:nurbsCircle1/Forest_Man_ST_02:Hand_Rigg_Import:nurbsCircle2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.389705479, y: -.238041192, z: -.120078675, w: .881502807}
+        inSlope: {x: -.321975946, y: .155983686, z: -.23988837, w: -.137732506}
+        outSlope: {x: -.321975946, y: .155983686, z: -.23988837, w: -.137732506}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: -.403121144, y: -.231541872, z: -.130074024, w: .875763953}
+        inSlope: {x: -.583926201, y: .300878227, z: -.432298541, w: -.268423319}
+        outSlope: {x: -.583926201, y: .300878227, z: -.432298541, w: -.268423319}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: -.542120874, y: -.143832594, z: -.230251878, w: .795236588}
+        inSlope: {x: -1.29428828, y: 1.02211618, z: -.894371748, w: -.961839497}
+        outSlope: {x: -1.29428828, y: 1.02211618, z: -.894371748, w: -.961839497}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: -.641125321, y: -.0508473888, z: -.295562446, w: .706410468}
+        inSlope: {x: -.969561219, y: 1.07272959, z: -.602815986, w: -1.03684103}
+        outSlope: {x: -.969561219, y: 1.07272959, z: -.602815986, w: -1.03684103}
+        tangentMode: 0
+      - time: .37500003
+        value: {x: -.7058267, y: .0331170037, z: -.332783371, w: .624473512}
+        inSlope: {x: .0240298063, y: -.0346982777, z: .0129382983, w: .0340491384}
+        outSlope: {x: .0240298063, y: -.0346982777, z: .0129382983, w: .0340491384}
+        tangentMode: 0
+      - time: .5
+        value: {x: -.625052691, y: -.0683227107, z: -.285490066, w: .723281801}
+        inSlope: {x: 1.19027376, y: -1.23736644, z: .758326471, w: 1.19093812}
+        outSlope: {x: 1.19027376, y: -1.23736644, z: .758326471, w: 1.19093812}
+        tangentMode: 0
+      - time: .583333313
+        value: {x: -.507669985, y: -.169441745, z: -.20611769, w: .81919241}
+        inSlope: {x: 1.43559694, y: -1.02091908, z: 1.01384997, w: .950502992}
+        outSlope: {x: 1.43559694, y: -1.02091908, z: 1.01384997, w: .950502992}
+        tangentMode: 0
+      - time: .666666687
+        value: {x: -.4064928, y: -.229860172, z: -.13257882, w: .874271572}
+        inSlope: {x: .719373047, y: -.378033012, z: .531407177, w: .338308066}
+        outSlope: {x: .719373047, y: -.378033012, z: .531407177, w: .338308066}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.3888188, y: -.238981783, z: -.119497165, w: .882411301}
+        inSlope: {x: .179065228, y: -.0872642994, z: .133335114, w: .0771331787}
+        outSlope: {x: .179065228, y: -.0872642994, z: .133335114, w: .0771331787}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:nurbsCircle8/Forest_Man_ST_02:nurbsCircle6/Forest_Man_ST_02:nurbsCircle9/Forest_Man_ST_02:Hand_Rigg_Import:Hand_Import/Forest_Man_ST_02:Hand_Rigg_Import:nurbsCircle1/Forest_Man_ST_02:Hand_Rigg_Import:nurbsCircle2/Forest_Man_ST_02:Hand_Rigg_Import:nurbsCircle3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .45180276, y: -.543943286, z: -.45180276, w: .543943286}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: .45180276, y: -.543943286, z: -.45180276, w: .543943286}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -4.67150359e-15, y: -4.47599142e-17, z: .0163745843, w: .999865949}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -4.67150359e-15, y: -4.47599142e-17, z: .0163745843, w: .99986589}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .9934026, y: -.113706492, z: -.0148250638, w: -.00153732765}
+        inSlope: {x: .000350475311, y: -4.02331352e-05, z: .0244018659, w: .00252955779}
+        outSlope: {x: .000350475311, y: -4.02331352e-05, z: .0244018659, w: .00252955779}
+        tangentMode: 0
+      - time: .5
+        value: {x: .993498087, y: -.113717422, z: .00544374296, w: .000564532413}
+        inSlope: {x: .000625848479, y: -7.17043513e-05, z: -.122309223, w: -.0126827005}
+        outSlope: {x: .000625848479, y: -7.17043513e-05, z: -.122309223, w: -.0126827005}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: .993468165, y: -.113714002, z: -.011406078, w: -.00118275371}
+        inSlope: {x: -.000562667847, y: 6.44524916e-05, z: -.0438345261, w: -.00454580691}
+        outSlope: {x: -.000562667847, y: 6.44524916e-05, z: -.0438345261, w: -.00454580691}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -4.49599752e-15, y: 1.16142947e-14, z: .0330609716, w: .999453366}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -4.49599752e-15, y: 1.16142939e-14, z: .0330609679, w: .999453366}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:Spline_03
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .0101137282, y: .0111343851, z: .0337655582, w: .999316573}
+        inSlope: {x: -.00217469037, y: -.0303818956, z: -.0924231112, w: .00328588486}
+        outSlope: {x: -.00217469037, y: -.0303818956, z: -.0924231112, w: .00328588486}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: .0103651201, y: -.0162399076, z: -.0493835248, w: .998594105}
+        inSlope: {x: .0117250523, y: -.128668904, z: -.391008705, w: -.0209476929}
+        outSlope: {x: .0117250523, y: -.128668904, z: -.391008705, w: -.0209476929}
+        tangentMode: 0
+      - time: .458333343
+        value: {x: .0107666319, y: -.0200342815, z: -.0609188117, w: .997883558}
+        inSlope: {x: -.0135636386, y: .120788708, z: .367321432, w: .0239188634}
+        outSlope: {x: -.0135636386, y: .120788708, z: .367321432, w: .0239188634}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: .0101137282, y: .0111343851, z: .0337655582, w: .999316573}
+        inSlope: {x: .0013435533, y: .0190348066, z: .0579024218, w: -.00202703662}
+        outSlope: {x: .0013435533, y: .0190348066, z: .0579024218, w: -.00202703662}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:Spline_03/Forest_Man_ST_02:Neck
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .487904727, y: -.511809528, z: .487904727, w: .511809528}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: .487904727, y: -.511809528, z: .487904727, w: .511809528}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:Spline_03/Forest_Man_ST_02:Neck/Forest_Man_ST_02:Akul
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .537396073, y: -.459570944, z: .453828275, w: .542254448}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: .537396073, y: -.459570944, z: .453828275, w: .542254448}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:joint13
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.450277001, y: -.130346447, z: .301354378, w: .830328822}
+        inSlope: {x: -.0356326103, y: .180526257, z: -.233149767, w: .0912122726}
+        outSlope: {x: -.0356326103, y: .180526257, z: -.233149767, w: .0912122726}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: -.455149084, y: -.102582499, z: .265355766, w: .843743145}
+        inSlope: {x: -.0811103582, y: .596431732, z: -.779210687, w: .26441288}
+        outSlope: {x: -.0811103582, y: .596431732, z: -.779210687, w: .26441288}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.459133625, y: -.00130472728, z: .130208507, w: .87877214}
+        inSlope: {x: .0553589873, y: .857941628, z: -1.17432451, w: .206759691}
+        outSlope: {x: .0553589873, y: .857941628, z: -1.17432451, w: .206759691}
+        tangentMode: 0
+      - time: .416666687
+        value: {x: -.446560353, y: .0802526921, z: .0157298222, w: .891008437}
+        inSlope: {x: -.091565989, y: -.402944744, z: .578013301, w: -.0304434374}
+        outSlope: {x: -.091565989, y: -.402944744, z: .578013301, w: -.0304434374}
+        tangentMode: 0
+      - time: .541666687
+        value: {x: -.460000992, y: -.01967673, z: .155232742, w: .874022126}
+        inSlope: {x: -.0272547975, y: -.975677609, z: 1.32299185, w: -.271217912}
+        outSlope: {x: -.0272547975, y: -.975677609, z: 1.32299185, w: -.271217912}
+        tangentMode: 0
+      - time: .666666687
+        value: {x: -.452118248, y: -.120918773, z: .28917411, w: .835072517}
+        inSlope: {x: .069507122, y: -.412849307, z: .53601259, w: -.196503639}
+        outSlope: {x: .069507122, y: -.412849307, z: .53601259, w: -.196503639}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.450353712, y: -.131008327, z: .302258104, w: .830203712}
+        inSlope: {x: .0196399689, y: -.100562096, z: .129923105, w: -.0505990982}
+        outSlope: {x: .0196399689, y: -.100562096, z: .129923105, w: -.0505990982}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:joint13/Forest_Man_ST_02:joint14
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.08435601, y: .257236719, z: .431520849, w: .860524952}
+        inSlope: {x: -.130726039, y: .0568406582, z: -.28176856, w: .108787537}
+        outSlope: {x: -.130726039, y: .0568406582, z: -.28176856, w: .108787537}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: -.104075074, y: .266806126, z: .388249815, w: .875925183}
+        inSlope: {x: -.407132924, y: .237112284, z: -.9259547, w: .280139923}
+        outSlope: {x: -.407132924, y: .237112284, z: -.9259547, w: .280139923}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.164946958, y: .319539994, z: .233550102, w: .903405249}
+        inSlope: {x: -.427969307, y: .553027034, z: -1.27865934, w: .0604212433}
+        outSlope: {x: -.427969307, y: .553027034, z: -1.27865934, w: .0604212433}
+        tangentMode: 0
+      - time: .416666687
+        value: {x: -.197142005, y: .379832029, z: .115454987, w: .896399915}
+        inSlope: {x: .122335583, y: -.326423854, z: .568050325, w: .0825255141}
+        outSlope: {x: .122335583, y: -.326423854, z: .568050325, w: .0825255141}
+        tangentMode: 0
+      - time: .541666687
+        value: {x: -.15541403, y: .308037341, z: .261082113, w: .901551783}
+        inSlope: {x: .524047613, y: -.587760448, z: 1.46840465, w: -.135722011}
+        outSlope: {x: .524047613, y: -.587760448, z: 1.46840465, w: -.135722011}
+        tangentMode: 0
+      - time: .666666687
+        value: {x: -.0911710337, y: .260231882, z: .416807652, w: .866163135}
+        inSlope: {x: .291241914, y: -.146264419, z: .643047035, w: -.222626209}
+        outSlope: {x: .291241914, y: -.146264419, z: .643047035, w: -.222626209}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.0840108097, y: .256746769, z: .432530463, w: .860578597}
+        inSlope: {x: .0726937056, y: -.031948328, z: .156941414, w: -.0601406097}
+        outSlope: {x: .0726937056, y: -.031948328, z: .156941414, w: -.0601406097}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:joint13/Forest_Man_ST_02:joint14/Forest_Man_ST_02:joint15
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -.0366057716, z: -0, w: .999329805}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 0, y: -.0366057679, z: 0, w: .999329805}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:joint13/Forest_Man_ST_02:joint14/Forest_Man_ST_02:joint15/Forest_Man_ST_02:joint16
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:joint13/Forest_Man_ST_02:joint14/Forest_Man_ST_02:joint15/Forest_Man_ST_02:joint16/Forest_Man_ST_02:joint17
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.497333467, y: .502652407, z: .497333467, w: .502652407}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.497333467, y: .502652407, z: .497333467, w: .502652407}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:transform4
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -0, z: -.0831268057, w: .996538997}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 0, y: 0, z: -.0831268057, w: .996538997}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:transform4/Forest_Man_ST_02:Hand_Rigg_Import:joint13
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.54153353, y: -.177672237, z: -.217176005, w: .792469919}
+        inSlope: {x: .30180788, y: .217179179, z: .214480519, w: .306398392}
+        outSlope: {x: .30180788, y: .217179179, z: .214480519, w: .306398392}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: -.528958201, y: -.168623105, z: -.208239317, w: .805236518}
+        inSlope: {x: .577596188, y: .417136461, z: .375198871, w: .541535139}
+        outSlope: {x: .577596188, y: .417136461, z: .375198871, w: .541535139}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: -.365596473, y: -.049522832, z: -.132225305, w: .920001745}
+        inSlope: {x: 1.83389115, y: 1.34722984, z: .526329279, w: .869468451}
+        outSlope: {x: 1.83389115, y: 1.34722984, z: .526329279, w: .869468451}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: -.204538316, y: .069257088, z: -.105942823, w: .970640898}
+        inSlope: {x: 1.78912187, y: 1.32283878, z: .0986717194, w: .311689764}
+        outSlope: {x: 1.78912187, y: 1.32283878, z: .0986717194, w: .311689764}
+        tangentMode: 0
+      - time: .37500003
+        value: {x: -.070130758, y: .168800488, z: -.111758016, w: .976779521}
+        inSlope: {x: -.0539892763, y: -.0400179625, z: .00571312569, w: .00196338631}
+        outSlope: {x: -.0539892763, y: -.0400179625, z: .00571312569, w: .00196338631}
+        tangentMode: 0
+      - time: .5
+        value: {x: -.233851463, y: .0475861654, z: -.107893832, w: .965094805}
+        inSlope: {x: -2.09377503, y: -1.54671621, z: -.199439049, w: -.473858833}
+        outSlope: {x: -2.09377503, y: -1.54671621, z: -.199439049, w: -.473858833}
+        tangentMode: 0
+      - time: .583333313
+        value: {x: -.412128955, y: -.0836546645, z: -.14773196, w: .895168662}
+        inSlope: {x: -1.8660481, y: -1.36654651, z: -.685686588, w: -1.07739425}
+        outSlope: {x: -1.8660481, y: -1.36654651, z: -.685686588, w: -1.07739425}
+        tangentMode: 0
+      - time: .666666687
+        value: {x: -.525715828, y: -.166285828, z: -.206029654, w: .808408082}
+        inSlope: {x: -.723790109, y: -.523275495, z: -.456436515, w: -.66113013}
+        outSlope: {x: -.723790109, y: -.523275495, z: -.456436515, w: -.66113013}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.543220222, y: -.178928137, z: -.21737197, w: .792032778}
+        inSlope: {x: -.16872263, y: -.121455312, z: -.118894577, w: -.170007706}
+        outSlope: {x: -.16872263, y: -.121455312, z: -.118894577, w: -.170007706}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:transform4/Forest_Man_ST_02:Hand_Rigg_Import:joint13/Forest_Man_ST_02:Hand_Rigg_Import:joint14
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.254896194, y: .346097171, z: .00601833034, w: .902888954}
+        inSlope: {x: .0185658932, y: .0433974266, z: -.136192188, w: -.0109677315}
+        outSlope: {x: .0185658932, y: .0433974266, z: -.136192188, w: -.0109677315}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: -.244551659, y: .368018091, z: -.0625824779, w: .894896984}
+        inSlope: {x: .106227465, y: .203197002, z: -.634175181, w: -.0994298607}
+        outSlope: {x: .106227465, y: .203197002, z: -.634175181, w: -.0994298607}
+        tangentMode: 0
+      - time: .416666687
+        value: {x: -.228027493, y: .395981342, z: -.149657056, w: .876815259}
+        inSlope: {x: -.0628355891, y: -.0960155949, z: .298584104, w: .0756726414}
+        outSlope: {x: -.0628355891, y: -.0960155949, z: .298584104, w: .0756726414}
+        tangentMode: 0
+      - time: .625
+        value: {x: -.251260728, y: .354329944, z: -.0197935421, w: .900514603}
+        inSlope: {x: -.0802625641, y: -.172609717, z: .540367782, w: .060030669}
+        outSlope: {x: -.0802625641, y: -.172609717, z: .540367782, w: .060030669}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.255175948, y: .345802575, z: .00691204332, w: .903353512}
+        inSlope: {x: -.0193891525, y: -.0439081192, z: .137663394, w: .0126628876}
+        outSlope: {x: -.0193891525, y: -.0439081192, z: .137663394, w: .0126628876}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:transform4/Forest_Man_ST_02:Hand_Rigg_Import:joint13/Forest_Man_ST_02:Hand_Rigg_Import:joint14/Forest_Man_ST_02:Hand_Rigg_Import:joint15
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.385048717, y: -.270149738, z: -.134263664, w: .872198284}
+        inSlope: {x: -.31297946, y: .160919666, z: -.251514316, w: -.131928921}
+        outSlope: {x: -.31297946, y: .160919666, z: -.251514316, w: -.131928921}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: -.398089528, y: -.263444752, z: -.144743428, w: .866701245}
+        inSlope: {x: -.56771028, y: .310502708, z: -.453383654, w: -.257228851}
+        outSlope: {x: -.56771028, y: .310502708, z: -.453383654, w: -.257228851}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: -.53332901, y: -.172846466, z: -.249942318, w: .789438546}
+        inSlope: {x: -1.26068258, y: 1.05664003, z: -.941150904, w: -.923778594}
+        outSlope: {x: -1.26068258, y: 1.05664003, z: -.941150904, w: -.923778594}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: -.629876316, y: -.0766720027, z: -.318833262, w: .704075694}
+        inSlope: {x: -.946844697, y: 1.10996521, z: -.637903929, w: -.996878266}
+        outSlope: {x: -.946844697, y: 1.10996521, z: -.637903929, w: -.996878266}
+        tangentMode: 0
+      - time: .37500003
+        value: {x: -.693171918, y: .0102354884, z: -.358397692, w: .625267267}
+        inSlope: {x: .0235405713, y: -.0359217674, z: .0138094835, w: .0327573866}
+        outSlope: {x: .0235405713, y: -.0359217674, z: .0138094835, w: .0327573866}
+        tangentMode: 0
+      - time: .5
+        value: {x: -.614183187, y: -.0947532207, z: -.308179229, w: .720296025}
+        inSlope: {x: 1.16171646, y: -1.28013182, z: .801389337, w: 1.14484501}
+        outSlope: {x: 1.16171646, y: -1.28013182, z: .801389337, w: 1.14484501}
+        tangentMode: 0
+      - time: .583333313
+        value: {x: -.499784678, y: -.199315339, z: -.224563196, w: .812440813}
+        inSlope: {x: 1.39752245, y: -1.05502903, z: 1.06572223, w: .912494957}
+        outSlope: {x: 1.39752245, y: -1.05502903, z: 1.06572223, w: .912494957}
+        tangentMode: 0
+      - time: .666666687
+        value: {x: -.401367217, y: -.261709481, z: -.147369951, w: .865271389}
+        inSlope: {x: .699438512, y: -.39016372, z: .557383895, w: .324242562}
+        outSlope: {x: .699438512, y: -.39016372, z: .557383895, w: .324242562}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.384183943, y: -.271122932, z: -.133650109, w: .87307173}
+        inSlope: {x: .174064636, y: -.0900297165, z: .139800668, w: .0738868713}
+        outSlope: {x: .174064636, y: -.0900297165, z: .139800668, w: .0738868713}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:transform4/Forest_Man_ST_02:Hand_Rigg_Import:joint13/Forest_Man_ST_02:Hand_Rigg_Import:joint14/Forest_Man_ST_02:Hand_Rigg_Import:joint15/Forest_Man_ST_02:Hand_Rigg_Import:joint16
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:transform4/Forest_Man_ST_02:Hand_Rigg_Import:joint13/Forest_Man_ST_02:Hand_Rigg_Import:joint14/Forest_Man_ST_02:Hand_Rigg_Import:joint15/Forest_Man_ST_02:Hand_Rigg_Import:joint16/Forest_Man_ST_02:Hand_Rigg_Import:joint17
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .888946354, y: -.0061214827, z: .257207215, w: .37892133}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: .888946295, y: -.00612148223, z: .257207215, w: .3789213}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:transform4/Forest_Man_ST_02:Hand_Rigg_Import:joint13/Forest_Man_ST_02:Hand_Rigg_Import:joint14/Forest_Man_ST_02:Hand_Rigg_Import:joint15/Forest_Man_ST_02:Hand_Rigg_Import:joint16/Forest_Man_ST_02:pCylinder1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.451802731, y: .543943286, z: .451802731, w: .543943286}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.451802731, y: .543943286, z: .451802731, w: .543943286}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:LW_Spline
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .246648118, y: .968336642, z: -.0353892669, w: .0153771006}
+        inSlope: {x: -.853360176, y: .199620724, z: -.0188485086, w: .0314708501}
+        outSlope: {x: -.853360176, y: .199620724, z: -.0188485086, w: .0314708501}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: .211091444, y: .976654172, z: -.0361746214, w: .016688386}
+        inSlope: {x: -1.34882474, y: .261033297, z: -.0289217699, w: .0134630799}
+        outSlope: {x: -1.34882474, y: .261033297, z: -.0289217699, w: .0134630799}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: -.0872465819, y: .995294869, z: -.0410193019, w: .0096767433}
+        inSlope: {x: -3.06581426, y: -.290981114, z: .0451471321, w: -.0146518275}
+        outSlope: {x: -3.06581426, y: -.290981114, z: .0451471321, w: -.0146518275}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: -.221997842, y: .974261999, z: -.0375117213, w: .0111101782}
+        inSlope: {x: -2.71818781, y: -.559088826, z: .0479260311, w: .0273129456}
+        outSlope: {x: -2.71818781, y: -.559088826, z: .0479260311, w: .0273129456}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: -.313762248, y: .948704123, z: -.0370254666, w: .0119528221}
+        inSlope: {x: -1.61954439, y: -.49168098, z: -5.06085344e-05, w: .0109644188}
+        outSlope: {x: -1.61954439, y: -.49168098, z: -5.06085344e-05, w: .0109644188}
+        tangentMode: 0
+      - time: .291666687
+        value: {x: -.356959909, y: .933288574, z: -.0375159383, w: .0120238801}
+        inSlope: {x: -.814424694, y: -.302694857, z: -.00657498976, w: -.0057529374}
+        outSlope: {x: -.814424694, y: -.302694857, z: -.00657498976, w: -.0057529374}
+        tangentMode: 0
+      - time: .333333343
+        value: {x: -.381630957, y: .923479557, z: -.0375733823, w: .0114734108}
+        inSlope: {x: -.109479696, y: -.0426064208, z: -.00863201544, w: -.0193211529}
+        outSlope: {x: -.109479696, y: -.0426064208, z: -.00863201544, w: -.0193211529}
+        tangentMode: 0
+      - time: .37500003
+        value: {x: -.366083205, y: .929738045, z: -.0382352732, w: .0104137836}
+        inSlope: {x: .280696332, y: .112441033, z: .0121275727, w: -.00664747832}
+        outSlope: {x: .280696332, y: .112441033, z: .0121275727, w: -.00664747832}
+        tangentMode: 0
+      - time: .416666687
+        value: {x: -.358239591, y: .932849646, z: -.036562752, w: .0109194536}
+        inSlope: {x: .223175943, y: .0864257962, z: .0351766869, w: .0223624762}
+        outSlope: {x: .223175943, y: .0864257962, z: .0351766869, w: .0223624762}
+        tangentMode: 0
+      - time: .458333343
+        value: {x: -.347485214, y: .936940193, z: -.0353038833, w: .0122773228}
+        inSlope: {x: 1.59203398, y: .486572534, z: -.0211980119, w: .0142726088}
+        outSlope: {x: 1.59203398, y: .486572534, z: -.0211980119, w: .0142726088}
+        tangentMode: 0
+      - time: .5
+        value: {x: -.225570038, y: .973397374, z: -.0383292548, w: .0121088373}
+        inSlope: {x: 3.44398236, y: .724774003, z: -.04861743, w: -.0218266994}
+        outSlope: {x: 3.44398236, y: .724774003, z: -.04861743, w: -.0218266994}
+        tangentMode: 0
+      - time: .541666687
+        value: {x: -.0604865514, y: .997338057, z: -.0393553376, w: .0104584303}
+        inSlope: {x: 3.55593848, y: .279674858, z: -.00171856489, w: -.0282887444}
+        outSlope: {x: 3.55593848, y: .279674858, z: -.00171856489, w: -.0282887444}
+        tangentMode: 0
+      - time: .583333313
+        value: {x: .0707581267, y: .996703625, z: -.0384724699, w: .00975144189}
+        inSlope: {x: 3.23638344, y: -.242298484, z: .0293906629, w: -.0381689966}
+        outSlope: {x: 3.23638344, y: -.242298484, z: .0293906629, w: -.0381689966}
+        tangentMode: 0
+      - time: .625
+        value: {x: .209212035, y: .977146506, z: -.0369061157, w: .0072776801}
+        inSlope: {x: 2.06125736, y: -.327496827, z: .0309769958, w: .0203817729}
+        outSlope: {x: 2.06125736, y: -.327496827, z: .0309769958, w: .0203817729}
+        tangentMode: 0
+      - time: .666666687
+        value: {x: .242529675, y: .969412208, z: -.0358910523, w: .0114499237}
+        inSlope: {x: .449232876, y: -.105718344, z: .0182021856, w: .0971930623}
+        outSlope: {x: .449232876, y: -.105718344, z: .0182021856, w: .0971930623}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: .249268413, y: .967773199, z: -.0354505554, w: .014425938}
+        inSlope: {x: -.0381760672, y: .00707102008, z: .00448156986, w: .0463909842}
+        outSlope: {x: -.0381760672, y: .00707102008, z: .00448156986, w: .0463909842}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Hip
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .844271719, y: .535152674, z: -.0258624535, w: -.0121655613}
+        inSlope: {x: -1.37922478, y: 1.93902969, z: -.22037597, w: -.138948485}
+        outSlope: {x: -1.37922478, y: 1.93902969, z: -.22037597, w: -.138948485}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: .78680402, y: .615945578, z: -.0350447856, w: -.0179550815}
+        inSlope: {x: -1.8715018, y: 2.25783491, z: -.263772309, w: -.185911477}
+        outSlope: {x: -1.8715018, y: 2.25783491, z: -.263772309, w: -.185911477}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: .688313246, y: .723305583, z: -.0478434786, w: -.0276581831}
+        inSlope: {x: -2.50831246, y: 2.3664608, z: -.288475573, w: -.244258016}
+        outSlope: {x: -2.50831246, y: 2.3664608, z: -.288475573, w: -.244258016}
+        tangentMode: 0
+      - time: .125
+        value: {x: .577777982, y: .813150644, z: -.0590844154, w: -.0383099169}
+        inSlope: {x: -2.00806236, y: 1.52103758, z: -.192022711, w: -.192459643}
+        outSlope: {x: -2.00806236, y: 1.52103758, z: -.192022711, w: -.192459643}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: .520974696, y: .850058734, z: -.0638453737, w: -.0436964892}
+        inSlope: {x: -.329376549, y: .222302794, z: -.0285484791, w: -.0313218832}
+        outSlope: {x: -.329376549, y: .222302794, z: -.0285484791, w: -.0313218832}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: .627739012, y: .775800109, z: -.0543517731, w: -.0335235931}
+        inSlope: {x: 2.15520263, y: -1.79884815, z: .223828316, w: .208011091}
+        outSlope: {x: 2.15520263, y: -1.79884815, z: .223828316, w: .208011091}
+        tangentMode: 0
+      - time: .291666687
+        value: {x: .729930162, y: .681771874, z: -.0428110957, w: -.0235858168}
+        inSlope: {x: 1.96977186, y: -1.99614263, z: .24070707, w: .192911893}
+        outSlope: {x: 1.96977186, y: -1.99614263, z: .24070707, w: .192911893}
+        tangentMode: 0
+      - time: .333333343
+        value: {x: .791886628, y: .60945493, z: -.0342928544, w: -.0174476057}
+        inSlope: {x: 1.39300621, y: -1.79230762, z: .207038701, w: .139173269}
+        outSlope: {x: 1.39300621, y: -1.79230762, z: .207038701, w: .139173269}
+        tangentMode: 0
+      - time: .37500003
+        value: {x: .846014023, y: .532412887, z: -.0255578682, w: -.0119880429}
+        inSlope: {x: .336220592, y: -.455117404, z: .0521272831, w: .0337489545}
+        outSlope: {x: .336220592, y: -.455117404, z: .0521272831, w: .0337489545}
+        tangentMode: 0
+      - time: .416666687
+        value: {x: .819905043, y: .571528435, z: -.0299489088, w: -.0146351894}
+        inSlope: {x: -1.60490203, y: 2.01106071, z: -.233392701, w: -.159963042}
+        outSlope: {x: -1.60490203, y: 2.01106071, z: -.233392701, w: -.159963042}
+        tangentMode: 0
+      - time: .458333343
+        value: {x: .712272227, y: .70000124, z: -.0450072549, w: -.0253182929}
+        inSlope: {x: -.91008693, y: 1.13942146, z: -.132423133, w: -.0907069147}
+        outSlope: {x: -.91008693, y: 1.13942146, z: -.132423133, w: -.0907069147}
+        tangentMode: 0
+      - time: .5
+        value: {x: .74406451, y: .666480184, z: -.0409841649, w: -.022194095}
+        inSlope: {x: 1.67159128, y: -2.11756372, z: .245197326, w: .166771829}
+        outSlope: {x: 1.67159128, y: -2.11756372, z: .245197326, w: .166771829}
+        tangentMode: 0
+      - time: .541666687
+        value: {x: .85157156, y: .523537517, z: -.0245741345, w: -.0114206336}
+        inSlope: {x: 1.81696403, y: -2.66060805, z: .299224973, w: .183835998}
+        outSlope: {x: 1.81696403, y: -2.66060805, z: .299224973, w: .183835998}
+        tangentMode: 0
+      - time: .583333313
+        value: {x: .895478189, y: .444762856, z: -.0160487518, w: -.00687442767}
+        inSlope: {x: 1.27315676, y: -2.82794976, z: .29254353, w: .136196107}
+        outSlope: {x: 1.27315676, y: -2.82794976, z: .29254353, w: .136196107}
+        tangentMode: 0
+      - time: .625
+        value: {x: .957667947, y: .287875026, z: -.000195506233, w: -7.09589294e-05}
+        inSlope: {x: .16606015, y: -.346758246, z: .0364059508, w: .0175675079}
+        outSlope: {x: .16606015, y: -.346758246, z: .0364059508, w: .0175675079}
+        tangentMode: 0
+      - time: .666666687
+        value: {x: .90931654, y: .415866315, z: -.0130149201, w: -.00541046774}
+        inSlope: {x: -1.36075521, y: 2.96733236, z: -.308003426, w: -.145135283}
+        outSlope: {x: -1.36075521, y: 2.96733236, z: -.308003426, w: -.145135283}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: .844271719, y: .535152674, z: -.0258624535, w: -.0121655613}
+        inSlope: {x: -.780538559, y: 1.43143761, z: -.154170543, w: -.0810611993}
+        outSlope: {x: -.780538559, y: 1.43143761, z: -.154170543, w: -.0810611993}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Hip/Forest_Man_ST_02:Knee
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .390623659, y: .920303226, z: -.0060490421, w: .0204578042}
+        inSlope: {x: -1.53587937, y: .58943224, z: -.170233846, w: -.0261825621}
+        outSlope: {x: -1.53587937, y: .58943224, z: -.170233846, w: -.0261825621}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: .326628685, y: .944862902, z: -.0131421192, w: .0193668641}
+        inSlope: {x: -1.61723089, y: .549930811, z: -.230800703, w: .0203249119}
+        outSlope: {x: -1.61723089, y: .549930811, z: -.230800703, w: .0203249119}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: .255854428, y: .966130793, z: -.0252824333, w: .0221515466}
+        inSlope: {x: -.289543509, y: .0839531869, z: -.242137641, w: .208164483}
+        outSlope: {x: -.289543509, y: .0839531869, z: -.242137641, w: .208164483}
+        tangentMode: 0
+      - time: .125
+        value: {x: .302500069, y: .951858997, z: -.0333202556, w: .0367139056}
+        inSlope: {x: 2.15504408, y: -.814858615, z: -.0664111525, w: .349730909}
+        outSlope: {x: 2.15504408, y: -.814858615, z: -.0664111525, w: .349730909}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: .435441464, y: .898225904, z: -.0308166966, w: .0512957908}
+        inSlope: {x: .972189188, y: -.364519954, z: -.0644350052, w: .133553684}
+        outSlope: {x: .972189188, y: -.364519954, z: -.0644350052, w: .133553684}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .383515865, y: .921482325, z: -.0386898369, w: .0478433818}
+        inSlope: {x: -1.29160786, y: .536024749, z: -.148428306, w: -.131521553}
+        outSlope: {x: -1.29160786, y: .536024749, z: -.148428306, w: -.131521553}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: .327807456, y: .942894638, z: -.0431857221, w: .0403356589}
+        inSlope: {x: 1.01945043, y: -.474085391, z: .0592115633, w: -.106875926}
+        outSlope: {x: 1.01945043, y: -.474085391, z: .0592115633, w: -.106875926}
+        tangentMode: 0
+      - time: .291666687
+        value: {x: .468470007, y: .881975234, z: -.0337555446, w: .0389370508}
+        inSlope: {x: 2.82265401, y: -1.41339576, z: .188252449, w: -.0297052488}
+        outSlope: {x: 2.82265401, y: -1.41339576, z: .188252449, w: -.0297052488}
+        tangentMode: 0
+      - time: .37500003
+        value: {x: .624279678, y: .780053556, z: -.0219336096, w: .0361976102}
+        inSlope: {x: 1.18521142, y: -.919605613, z: .0933471322, w: -.00247504003}
+        outSlope: {x: 1.18521142, y: -.919605613, z: .0933471322, w: -.00247504003}
+        tangentMode: 0
+      - time: .416666687
+        value: {x: .661796212, y: .748477876, z: -.0197190922, w: .0376539677}
+        inSlope: {x: -.250155747, y: .189516336, z: -.0419324338, w: .0817468166}
+        outSlope: {x: -.250155747, y: .189516336, z: -.0419324338, w: .0817468166}
+        tangentMode: 0
+      - time: .458333343
+        value: {x: .603433371, y: .795846581, z: -.0254279785, w: .0430098437}
+        inSlope: {x: -1.49609303, y: 1.12554419, z: -.05243285, w: .012253534}
+        outSlope: {x: -1.49609303, y: 1.12554419, z: -.05243285, w: .012253534}
+        tangentMode: 0
+      - time: .5
+        value: {x: .537121773, y: .842273235, z: -.0240884945, w: .0386750922}
+        inSlope: {x: -.664557397, y: .478247672, z: .140109479, w: -.126768783}
+        outSlope: {x: -.664557397, y: .478247672, z: .140109479, w: -.126768783}
+        tangentMode: 0
+      - time: .541666687
+        value: {x: .548053563, y: .835700572, z: -.0137521829, w: .0324457735}
+        inSlope: {x: .193165541, y: -.117675304, z: .212698773, w: -.10268271}
+        outSlope: {x: .193165541, y: -.117675304, z: .212698773, w: -.10268271}
+        tangentMode: 0
+      - time: .583333313
+        value: {x: .553218901, y: .83246696, z: -.00636359863, w: .0301181991}
+        inSlope: {x: .962018609, y: -.699733734, z: .224200249, w: -.0139274923}
+        outSlope: {x: .962018609, y: -.699733734, z: .224200249, w: -.0139274923}
+        tangentMode: 0
+      - time: .625
+        value: {x: .62822181, y: .777389407, z: .00493117003, w: .0312851518}
+        inSlope: {x: -.539076507, y: .3399387, z: .0830417722, w: -.0515818074}
+        outSlope: {x: -.539076507, y: .3399387, z: .0830417722, w: -.0515818074}
+        tangentMode: 0
+      - time: .666666687
+        value: {x: .508295834, y: .8607952, z: .000556551793, w: .0258197132}
+        inSlope: {x: -2.85117841, y: 1.71496606, z: -.131762594, w: -.129928201}
+        outSlope: {x: -2.85117841, y: 1.71496606, z: -.131762594, w: -.129928201}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: .390623659, y: .920303226, z: -.0060490421, w: .0204578042}
+        inSlope: {x: -1.41206741, y: .714096963, z: -.0792672038, w: -.0643429682}
+        outSlope: {x: -1.41206741, y: .714096963, z: -.0792672038, w: -.0643429682}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Hip/Forest_Man_ST_02:Knee/Forest_Man_ST_02:Ankil
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -8.6944425e-09, y: 1.449033e-09, z: -.164394498, w: .986394703}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -8.6944425e-09, y: 1.449033e-09, z: -.164394498, w: .986394644}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Hip/Forest_Man_ST_02:Knee/Forest_Man_ST_02:Ankil/Forest_Man_ST_02:Boll
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .0826513618, y: .996578574, z: -5.59619051e-17, w: -6.60837768e-17}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: .0826513618, y: .996578574, z: -5.59619051e-17, w: -6.60837768e-17}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Hip/Forest_Man_ST_02:Knee/Forest_Man_ST_02:Ankil/Forest_Man_ST_02:Boll/Forest_Man_ST_02:Toe
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .451802731, y: -.543943286, z: .451802731, w: .543943286}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: .451802731, y: -.543943286, z: .451802731, w: .543943286}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:transform5
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .276048452, y: .673586071, z: .22525157, w: .647565305}
+        inSlope: {x: -.487795115, y: .121446133, z: -.456969023, w: .224106789}
+        outSlope: {x: -.487795115, y: .121446133, z: -.456969023, w: .224106789}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: .255723655, y: .678646326, z: .206211194, w: .656903088}
+        inSlope: {x: -.286866188, y: .0544281006, z: -.265086293, w: .146492243}
+        outSlope: {x: -.286866188, y: .0544281006, z: -.265086293, w: .146492243}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: .252142936, y: .678121746, z: .203161046, w: .659772992}
+        inSlope: {x: .87930131, y: -.355080813, z: .850554287, w: -.353312671}
+        outSlope: {x: .87930131, y: -.355080813, z: .850554287, w: -.353312671}
+        tangentMode: 0
+      - time: .125
+        value: {x: .328998774, y: .649056256, z: .277090728, w: .627460361}
+        inSlope: {x: 2.12177372, y: -1.01967347, z: 2.09426332, w: -1.1128906}
+        outSlope: {x: 2.12177372, y: -1.01967347, z: 2.09426332, w: -1.1128906}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: .428957433, y: .593148947, z: .377683014, w: .567032099}
+        inSlope: {x: 1.97936583, y: -1.2922461, z: 2.00968266, w: -1.34865546}
+        outSlope: {x: 1.97936583, y: -1.2922461, z: 2.00968266, w: -1.34865546}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .493945926, y: .541369081, z: .444564283, w: .515072405}
+        inSlope: {x: 1.54683232, y: -1.42960536, z: 1.62658465, w: -1.42850673}
+        outSlope: {x: 1.54683232, y: -1.42960536, z: 1.62658465, w: -1.42850673}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: .557860136, y: .474015146, z: .513231754, w: .447989851}
+        inSlope: {x: 1.21861923, y: -1.42307794, z: 1.30981398, w: -1.38027489}
+        outSlope: {x: 1.21861923, y: -1.42307794, z: 1.30981398, w: -1.38027489}
+        tangentMode: 0
+      - time: .291666687
+        value: {x: .595497549, y: .422779232, z: .553715467, w: .400049478}
+        inSlope: {x: .51638329, y: -.71174109, z: .504781842, w: -.596997261}
+        outSlope: {x: .51638329, y: -.71174109, z: .504781842, w: -.596997261}
+        tangentMode: 0
+      - time: .333333343
+        value: {x: .600892067, y: .414703399, z: .555296898, w: .398240089}
+        inSlope: {x: .114902966, y: -.159605384, z: .0433616564, w: -.0670741647}
+        outSlope: {x: .114902966, y: -.159605384, z: .0433616564, w: -.0670741647}
+        tangentMode: 0
+      - time: .37500003
+        value: {x: .605072796, y: .409478784, z: .557328939, w: .394459963}
+        inSlope: {x: -.230178684, y: .360776544, z: -.324691147, w: .379129648}
+        outSlope: {x: -.230178684, y: .360776544, z: -.324691147, w: .379129648}
+        tangentMode: 0
+      - time: .458333343
+        value: {x: .536848426, y: .498755753, z: .480779916, w: .48154664}
+        inSlope: {x: -1.31222832, y: 1.3955965, z: -1.33033645, w: 1.28048253}
+        outSlope: {x: -1.31222832, y: 1.3955965, z: -1.33033645, w: 1.28048253}
+        tangentMode: 0
+      - time: .5
+        value: {x: .472358137, y: .56106782, z: .417377919, w: .536541104}
+        inSlope: {x: -1.78427148, y: 1.44287038, z: -1.72774053, w: 1.34849524}
+        outSlope: {x: -1.78427148, y: 1.44287038, z: -1.72774053, w: 1.34849524}
+        tangentMode: 0
+      - time: .541666687
+        value: {x: .388159066, y: .618995011, z: .336801469, w: .593921304}
+        inSlope: {x: -1.95643115, y: 1.15121353, z: -1.90587091, w: 1.20595777}
+        outSlope: {x: -1.95643115, y: 1.15121353, z: -1.90587091, w: 1.20595777}
+        tangentMode: 0
+      - time: .583333313
+        value: {x: .309322238, y: .65700227, z: .258555382, w: .637037575}
+        inSlope: {x: -1.14737976, y: .558027923, z: -1.15403926, w: .590612113}
+        outSlope: {x: -1.14737976, y: .558027923, z: -1.15403926, w: .590612113}
+        tangentMode: 0
+      - time: .625
+        value: {x: .292544156, y: .665497303, z: .240631595, w: .643138945}
+        inSlope: {x: -.161889836, y: .107886977, z: -.163972124, w: .0296001285}
+        outSlope: {x: -.161889836, y: .107886977, z: -.163972124, w: .0296001285}
+        tangentMode: 0
+      - time: .666666687
+        value: {x: .295831412, y: .665992856, z: .244891033, w: .639504254}
+        inSlope: {x: -.197948694, y: .0970652997, z: -.184560552, w: .0531164333}
+        outSlope: {x: -.197948694, y: .0970652997, z: -.184560552, w: .0531164333}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: .276048452, y: .673586071, z: .22525157, w: .647565305}
+        inSlope: {x: -.237395748, y: .0911186635, z: -.23567377, w: .0967327058}
+        outSlope: {x: -.237395748, y: .0911186635, z: -.23567377, w: .0967327058}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:transform5/Forest_Man_ST_02:Hand_Rigg_Import:Hip
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .897268414, y: .441156745, z: -.0156673547, w: -.00668601459}
+        inSlope: {x: -1.45948362, y: 2.54513597, z: -.276966244, w: -.150583863}
+        outSlope: {x: -1.45948362, y: 2.54513597, z: -.276966244, w: -.150583863}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: .836456597, y: .547204077, z: -.0272076149, w: -.0129603427}
+        inSlope: {x: -1.97130787, y: 2.84827566, z: -.321038842, w: -.199183643}
+        outSlope: {x: -1.97130787, y: 2.84827566, z: -.321038842, w: -.199183643}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: .732992768, y: .67851305, z: -.0424205922, w: -.0232846513}
+        inSlope: {x: -.754406154, y: 1.02133393, z: -.116935231, w: -.0757275373}
+        outSlope: {x: -.754406154, y: 1.02133393, z: -.116935231, w: -.0757275373}
+        tangentMode: 0
+      - time: .125
+        value: {x: .773589432, y: .632315218, z: -.0369522162, w: -.0192709696}
+        inSlope: {x: 1.86228895, y: -2.6330843, z: .298188329, w: .187747493}
+        outSlope: {x: 1.86228895, y: -2.6330843, z: .298188329, w: .187747493}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: .888183534, y: .459089339, z: -.0175715629, w: -.00763902487}
+        inSlope: {x: 1.80075932, y: -2.99070406, z: .327802747, w: .184797138}
+        outSlope: {x: 1.80075932, y: -2.99070406, z: .327802747, w: .184797138}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .923652709, y: .38308987, z: -.00963531993, w: -.00387120713}
+        inSlope: {x: 1.00058746, y: -2.66849375, z: .268779755, w: .111360833}
+        outSlope: {x: 1.00058746, y: -2.66849375, z: .268779755, w: .111360833}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: .971565843, y: .23671481, z: .00482675619, w: .00164104637}
+        inSlope: {x: .690958977, y: -2.28594637, z: .223965794, w: .0813398063}
+        outSlope: {x: .690958977, y: -2.28594637, z: .223965794, w: .0813398063}
+        tangentMode: 0
+      - time: .291666687
+        value: {x: .981232643, y: .192594275, z: .00902850274, w: .00290711247}
+        inSlope: {x: -.440270036, y: 1.41820049, z: -.139296681, w: -.0514350943}
+        outSlope: {x: -.440270036, y: 1.41820049, z: -.139296681, w: -.0514350943}
+        tangentMode: 0
+      - time: .333333343
+        value: {x: .93487668, y: .354898155, z: -.00678129727, w: -.0026452099}
+        inSlope: {x: -.859488487, y: 2.67162347, z: -.263725609, w: -.0994374752}
+        outSlope: {x: -.859488487, y: 2.67162347, z: -.263725609, w: -.0994374752}
+        tangentMode: 0
+      - time: .37500003
+        value: {x: .909608603, y: .415229559, z: -.0129486294, w: -.00537934341}
+        inSlope: {x: -1.49145854, y: 2.75599766, z: -.295814306, w: -.155138016}
+        outSlope: {x: -1.49145854, y: 2.75599766, z: -.295814306, w: -.155138016}
+        tangentMode: 0
+      - time: .416666687
+        value: {x: .810588479, y: .584564626, z: -.0314324871, w: -.0155733768}
+        inSlope: {x: -2.89931917, y: 3.91981483, z: -.446146786, w: -.291045964}
+        outSlope: {x: -2.89931917, y: 3.91981483, z: -.446146786, w: -.291045964}
+        tangentMode: 0
+      - time: .458333343
+        value: {x: .667998731, y: .741880715, z: -.0501275174, w: -.0296331681}
+        inSlope: {x: -3.09018469, y: 2.94383311, z: -.357599705, w: -.301037848}
+        outSlope: {x: -3.09018469, y: 2.94383311, z: -.357599705, w: -.301037848}
+        tangentMode: 0
+      - time: .5
+        value: {x: .553073049, y: .829884052, z: -.0612324625, w: -.0406598672}
+        inSlope: {x: -1.86914539, y: 1.36054242, z: -.17274639, w: -.178640395}
+        outSlope: {x: -1.86914539, y: 1.36054242, z: -.17274639, w: -.178640395}
+        tangentMode: 0
+      - time: .541666687
+        value: {x: .512236536, y: .855259299, z: -.0645230561, w: -.0445198752}
+        inSlope: {x: .780637264, y: -.558120728, z: .0711340457, w: .0745410025}
+        outSlope: {x: .780637264, y: -.558120728, z: .0711340457, w: .0745410025}
+        tangentMode: 0
+      - time: .583333313
+        value: {x: .618126035, y: .783374071, z: -.0553046353, w: -.0344481282}
+        inSlope: {x: 3.36028457, y: -2.95543098, z: .363430142, w: .325314611}
+        outSlope: {x: 3.36028457, y: -2.95543098, z: .363430142, w: .325314611}
+        tangentMode: 0
+      - time: .625
+        value: {x: .79226023, y: .608973384, z: -.0342372097, w: -.0174103249}
+        inSlope: {x: 3.36700201, y: -4.14176846, z: .479358673, w: .334967017}
+        outSlope: {x: 3.36700201, y: -4.14176846, z: .479358673, w: .334967017}
+        tangentMode: 0
+      - time: .666666687
+        value: {x: .898709655, y: .438226521, z: -.0153580597, w: -.00653419551}
+        inSlope: {x: 1.26009762, y: -2.01379871, z: .222838148, w: .128691658}
+        outSlope: {x: 1.26009762, y: -2.01379871, z: .222838148, w: .128691658}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: .897268414, y: .441156745, z: -.0156673547, w: -.00668601459}
+        inSlope: {x: -.0172949005, y: .0351627208, z: -.00371154374, w: -.00182183075}
+        outSlope: {x: -.0172949005, y: .0351627208, z: -.00371154374, w: -.00182183075}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:transform5/Forest_Man_ST_02:Hand_Rigg_Import:Hip/Forest_Man_ST_02:Hand_Rigg_Import:Knee
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .670400918, y: .741000295, z: -.0165211521, w: .0347597003}
+        inSlope: {x: .203484535, y: -.18973732, z: -.0360638201, w: .0541476309}
+        outSlope: {x: .203484535, y: -.18973732, z: -.0360638201, w: .0541476309}
+        tangentMode: 0
+      - time: .0416666679
+        value: {x: .67887944, y: .733094573, z: -.0180238113, w: .0370158516}
+        inSlope: {x: -.427293837, y: .36213544, z: -.0813208967, w: .0890229642}
+        outSlope: {x: -.427293837, y: .36213544, z: -.0813208967, w: .0890229642}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: .634793103, y: .771178246, z: -.0232978929, w: .0421782807}
+        inSlope: {x: -1.03377414, y: .853350163, z: -.0337968506, w: .0183807388}
+        outSlope: {x: -1.03377414, y: .853350163, z: -.0337968506, w: .0183807388}
+        tangentMode: 0
+      - time: .125
+        value: {x: .592731595, y: .804207087, z: -.0208402146, w: .0385475792}
+        inSlope: {x: -.0780487061, y: .0721385181, z: .164177358, w: -.101587892}
+        outSlope: {x: -.0780487061, y: .0721385181, z: .164177358, w: -.101587892}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: .628289044, y: .777189791, z: -.00961644482, w: .0337126218}
+        inSlope: {x: .171111941, y: -.121760055, z: .192057654, w: -.0818083137}
+        outSlope: {x: .171111941, y: -.121760055, z: .192057654, w: -.0818083137}
+        tangentMode: 0
+      - time: .208333328
+        value: {x: .606990933, y: .794060409, z: -.00483540958, w: .0317302197}
+        inSlope: {x: .11958909, y: -.0964413136, z: .161844984, w: -.0214051083}
+        outSlope: {x: .11958909, y: -.0964413136, z: .161844984, w: -.0214051083}
+        tangentMode: 0
+      - time: .25000003
+        value: {x: .638254821, y: .769152999, z: .00387064065, w: .0319288634}
+        inSlope: {x: .207041278, y: -.1619187, z: .156739458, w: -.00774184242}
+        outSlope: {x: .207041278, y: -.1619187, z: .156739458, w: -.00774184242}
+        tangentMode: 0
+      - time: .291666687
+        value: {x: .624244392, y: .780567169, z: .00822621584, w: .0310850665}
+        inSlope: {x: -1.64741528, y: 1.15154409, z: -.00569958985, w: -.0908295214}
+        outSlope: {x: -1.64741528, y: 1.15154409, z: -.00569958985, w: -.0908295214}
+        tangentMode: 0
+      - time: .333333343
+        value: {x: .500970244, y: .865114987, z: .00339567522, w: .0243597385}
+        inSlope: {x: -1.97675061, y: 1.28788245, z: -.0836799815, w: -.106210634}
+        outSlope: {x: -1.97675061, y: 1.28788245, z: -.0836799815, w: -.106210634}
+        tangentMode: 0
+      - time: .37500003
+        value: {x: .459515184, y: .887890697, z: .00125288405, w: .0222341809}
+        inSlope: {x: -1.76492548, y: .838688135, z: -.171445906, w: -.0506713465}
+        outSlope: {x: -1.76492548, y: .838688135, z: -.171445906, w: -.0506713465}
+        tangentMode: 0
+      - time: .416666687
+        value: {x: .353893131, y: .935005665, z: -.0108914813, w: .0201371256}
+        inSlope: {x: -2.48912287, y: .94943428, z: -.347662151, w: .020787036}
+        outSlope: {x: -2.48912287, y: .94943428, z: -.347662151, w: .020787036}
+        tangentMode: 0
+      - time: .458333343
+        value: {x: .252088338, y: .9670102, z: -.0277189557, w: .0239664335}
+        inSlope: {x: -.442005754, y: .142496318, z: -.290569216, w: .247065187}
+        outSlope: {x: -.442005754, y: .142496318, z: -.290569216, w: .247065187}
+        tangentMode: 0
+      - time: .5
+        value: {x: .317059368, y: .946880341, z: -.0351055823, w: .040725898}
+        inSlope: {x: 2.8019824, y: -1.14079237, z: -.0237864181, w: .373671204}
+        outSlope: {x: 2.8019824, y: -1.14079237, z: -.0237864181, w: .373671204}
+        tangentMode: 0
+      - time: .541666687
+        value: {x: .485587001, y: .871944129, z: -.0297011584, w: .055105716}
+        inSlope: {x: 2.33421946, y: -1.07393408, z: .0532056876, w: .0788607001}
+        outSlope: {x: 2.33421946, y: -1.07393408, z: .0532056876, w: .0788607001}
+        tangentMode: 0
+      - time: .583333313
+        value: {x: .511577725, y: .857385814, z: -.0306717716, w: .0472976379}
+        inSlope: {x: .512924433, y: -.289253831, z: .0387770645, w: -.22297059}
+        outSlope: {x: .512924433, y: -.289253831, z: .0387770645, w: -.22297059}
+        tangentMode: 0
+      - time: .625
+        value: {x: .528330684, y: .847839653, z: -.0264697336, w: .036524836}
+        inSlope: {x: 1.72799909, y: -1.23872948, z: .171138257, w: -.152947396}
+        outSlope: {x: 1.72799909, y: -1.23872948, z: .171138257, w: -.152947396}
+        tangentMode: 0
+      - time: .666666687
+        value: {x: .655577719, y: .754158318, z: -.0164102428, w: .0345520154}
+        inSlope: {x: 1.70484221, y: -1.28207195, z: .119382918, w: -.0211816151}
+        outSlope: {x: 1.70484221, y: -1.28207195, z: .119382918, w: -.0211816151}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: .670400918, y: .741000295, z: -.0165211521, w: .0347597003}
+        inSlope: {x: .177878544, y: -.157896429, z: -.00133091339, w: .00249222154}
+        outSlope: {x: .177878544, y: -.157896429, z: -.00133091339, w: .00249222154}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:transform5/Forest_Man_ST_02:Hand_Rigg_Import:Hip/Forest_Man_ST_02:Hand_Rigg_Import:Knee/Forest_Man_ST_02:Hand_Rigg_Import:Ankil
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 2.46034038e-08, y: -4.10045242e-09, z: -.164394498, w: .986394703}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 2.46034038e-08, y: -4.10045242e-09, z: -.164394498, w: .986394644}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:transform5/Forest_Man_ST_02:Hand_Rigg_Import:Hip/Forest_Man_ST_02:Hand_Rigg_Import:Knee/Forest_Man_ST_02:Hand_Rigg_Import:Ankil/Forest_Man_ST_02:Hand_Rigg_Import:Boll
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .0826513618, y: .996578574, z: -5.59619051e-17, w: -6.60837768e-17}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: .0826513618, y: .996578574, z: -5.59619051e-17, w: -6.60837768e-17}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:transform5/Forest_Man_ST_02:Hand_Rigg_Import:Hip/Forest_Man_ST_02:Hand_Rigg_Import:Knee/Forest_Man_ST_02:Hand_Rigg_Import:Ankil/Forest_Man_ST_02:Hand_Rigg_Import:Boll/Forest_Man_ST_02:Hand_Rigg_Import:Toe
+  m_CompressedRotationCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0, y: .0112382602, z: .000600818137}
+        inSlope: {x: -0, y: 1.36685514e-07, z: 1.04083409e-17}
+        outSlope: {x: -0, y: 1.36685514e-07, z: 1.04083409e-17}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: -0, y: .0102267563, z: .000600818137}
+        inSlope: {x: -0, y: -3.90630497e-08, z: 4.46071786e-18}
+        outSlope: {x: -0, y: -2.19936695e-07, z: 1.04083392e-17}
+        tangentMode: 0
+      - time: .125
+        value: {x: -0, y: .0111799194, z: .000600818137}
+        inSlope: {x: -0, y: .025975002, z: 4.46071745e-18}
+        outSlope: {x: -0, y: .0259754788, z: 1.04083442e-17}
+        tangentMode: 0
+      - time: .166666657
+        value: {x: -0, y: .0123913586, z: .000600818137}
+        inSlope: {x: -0, y: .0181534402, z: 4.4607191e-18}
+        outSlope: {x: -0, y: .0181532204, z: 1.04083392e-17}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -0, y: .0127357291, z: .000600818137}
+        inSlope: {x: -0, y: -2.05282529e-08, z: 4.4607191e-18}
+        outSlope: {x: -0, y: -7.77492701e-08, z: 1.04083367e-17}
+        tangentMode: 0
+      - time: .375
+        value: {x: -0, y: .0112382602, z: .000600818137}
+        inSlope: {x: -0, y: 1.60669316e-07, z: 4.4607191e-18}
+        outSlope: {x: -0, y: 2.65447664e-10, z: 1.04083367e-17}
+        tangentMode: 0
+      - time: .458333343
+        value: {x: -0, y: .0102267563, z: .000600818137}
+        inSlope: {x: -0, y: 2.67294325e-07, z: 4.4607191e-18}
+        outSlope: {x: -0, y: -1.12047225e-07, z: 1.04083367e-17}
+        tangentMode: 0
+      - time: .541666627
+        value: {x: -0, y: .0123913586, z: .000600818137}
+        inSlope: {x: -0, y: .0114789829, z: 4.460722e-18}
+        outSlope: {x: -0, y: .0114789903, z: 1.04083367e-17}
+        tangentMode: 0
+      - time: .625
+        value: {x: -0, y: .0127357291, z: .000600818137}
+        inSlope: {x: -0, y: -1.51351998e-07, z: 4.4607158e-18}
+        outSlope: {x: -0, y: -2.2102256e-07, z: 1.04083516e-17}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -0, y: .0112382602, z: .000600818137}
+        inSlope: {x: -0, y: 2.21754902e-07, z: 4.4607158e-18}
+        outSlope: {x: -0, y: 1.66533388e-16, z: 1.04083367e-17}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:nurbsCircle8
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 2.02655759e-17, y: .00681105535, z: -.00142096961}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 2.02655759e-17, y: .00681105535, z: -.00142096961}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:nurbsCircle8/Forest_Man_ST_02:nurbsCircle6/Forest_Man_ST_02:nurbsCircle9
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 2.36387811e-16, y: .0133354831, z: .000585105096}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 2.36387811e-16, y: .0133354822, z: .000585105096}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:nurbsCircle8/Forest_Man_ST_02:nurbsCircle6/Forest_Man_ST_02:nurbsCircle9/Forest_Man_ST_02:nurbsCircle7
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.00941318646, y: .00132799672, z: .0016413664}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.00941318646, y: .00132799661, z: .0016413664}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:nurbsCircle8/Forest_Man_ST_02:nurbsCircle6/Forest_Man_ST_02:nurbsCircle9/Forest_Man_ST_02:nurbsCircle1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0122556807, y: -.000240105714, z: -.000629681919}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.0122556807, y: -.000240105699, z: -.000629681919}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:nurbsCircle8/Forest_Man_ST_02:nurbsCircle6/Forest_Man_ST_02:nurbsCircle9/Forest_Man_ST_02:nurbsCircle1/Forest_Man_ST_02:nurbsCircle2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0101682628, y: -.000210579048, z: .00104698597}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.0101682618, y: -.000210579034, z: .00104698585}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:nurbsCircle8/Forest_Man_ST_02:nurbsCircle6/Forest_Man_ST_02:nurbsCircle9/Forest_Man_ST_02:nurbsCircle1/Forest_Man_ST_02:nurbsCircle2/Forest_Man_ST_02:nurbsCircle3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.00941318646, y: .027879592, z: -.000348995323}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.00941318646, y: .027879592, z: -.000348995323}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:nurbsCircle8/Forest_Man_ST_02:nurbsCircle6/Forest_Man_ST_02:nurbsCircle9/Forest_Man_ST_02:Hand_Rigg_Import:Hand_Import/Forest_Man_ST_02:Hand_Rigg_Import:nurbsCircle1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0122556807, y: -.000240105714, z: -.000629681919}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.0122556807, y: -.000240105699, z: -.000629681919}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:nurbsCircle8/Forest_Man_ST_02:nurbsCircle6/Forest_Man_ST_02:nurbsCircle9/Forest_Man_ST_02:Hand_Rigg_Import:Hand_Import/Forest_Man_ST_02:Hand_Rigg_Import:nurbsCircle1/Forest_Man_ST_02:Hand_Rigg_Import:nurbsCircle2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0101682628, y: -.000210579048, z: .00104698597}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.0101682618, y: -.000210579034, z: .00104698585}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:nurbsCircle8/Forest_Man_ST_02:nurbsCircle6/Forest_Man_ST_02:nurbsCircle9/Forest_Man_ST_02:Hand_Rigg_Import:Hand_Import/Forest_Man_ST_02:Hand_Rigg_Import:nurbsCircle1/Forest_Man_ST_02:Hand_Rigg_Import:nurbsCircle2/Forest_Man_ST_02:Hand_Rigg_Import:nurbsCircle3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0, y: .0112382602, z: .000600818137}
+        inSlope: {x: -0, y: 1.36685514e-07, z: 1.04083409e-17}
+        outSlope: {x: -0, y: 1.36685514e-07, z: 1.04083409e-17}
+        tangentMode: 0
+      - time: .0833333284
+        value: {x: -0, y: .0102267563, z: .000600818137}
+        inSlope: {x: -0, y: -3.90630497e-08, z: 4.46071786e-18}
+        outSlope: {x: -0, y: -2.19936695e-07, z: 1.04083392e-17}
+        tangentMode: 0
+      - time: .125
+        value: {x: -0, y: .0111799194, z: .000600818137}
+        inSlope: {x: -0, y: .025975002, z: 4.46071745e-18}
+        outSlope: {x: -0, y: .0259754788, z: 1.04083442e-17}
+        tangentMode: 0
+      - time: .166666657
+        value: {x: -0, y: .0123913586, z: .000600818137}
+        inSlope: {x: -0, y: .0181534402, z: 4.4607191e-18}
+        outSlope: {x: -0, y: .0181532204, z: 1.04083392e-17}
+        tangentMode: 0
+      - time: .249999985
+        value: {x: -0, y: .0127357291, z: .000600818137}
+        inSlope: {x: -0, y: -2.05282529e-08, z: 4.4607191e-18}
+        outSlope: {x: -0, y: -7.77492701e-08, z: 1.04083367e-17}
+        tangentMode: 0
+      - time: .333333343
+        value: {x: -0, y: .0116264923, z: .000600818137}
+        inSlope: {x: -0, y: -.0133107221, z: 4.4607191e-18}
+        outSlope: {x: -0, y: -.0133110238, z: 1.04083442e-17}
+        tangentMode: 0
+      - time: .375
+        value: {x: -0, y: .0112382602, z: .000600818137}
+        inSlope: {x: -0, y: -.010727793, z: 4.4607191e-18}
+        outSlope: {x: -0, y: -.0107277073, z: 1.04083367e-17}
+        tangentMode: 0
+      - time: .416666687
+        value: {x: -0, y: .0107325073, z: .000600818137}
+        inSlope: {x: -0, y: -.0121377809, z: 4.4607158e-18}
+        outSlope: {x: -0, y: -.0121381348, z: 1.04083442e-17}
+        tangentMode: 0
+      - time: .458333343
+        value: {x: -0, y: .0102267563, z: .000600818137}
+        inSlope: {x: -0, y: -3.90630603e-08, z: 4.4607191e-18}
+        outSlope: {x: -0, y: -1.17798336e-07, z: 1.04083367e-17}
+        tangentMode: 0
+      - time: .5
+        value: {x: -0, y: .0111894859, z: .000600818137}
+        inSlope: {x: -0, y: .0259749591, z: 4.4607158e-18}
+        outSlope: {x: -0, y: .0259752236, z: 1.04083516e-17}
+        tangentMode: 0
+      - time: .541666627
+        value: {x: -0, y: .0123913586, z: .000600818137}
+        inSlope: {x: -0, y: .0179237537, z: 4.460722e-18}
+        outSlope: {x: -0, y: .0179234743, z: 1.04083367e-17}
+        tangentMode: 0
+      - time: .583333313
+        value: {x: -0, y: .0126831168, z: .000600818137}
+        inSlope: {x: -0, y: .00378798507, z: 4.4607158e-18}
+        outSlope: {x: -0, y: .0037880796, z: 1.04083367e-17}
+        tangentMode: 0
+      - time: .625
+        value: {x: -0, y: .0127357291, z: .000600818137}
+        inSlope: {x: -0, y: 8.70801387e-08, z: 4.4607158e-18}
+        outSlope: {x: -0, y: -5.59052253e-08, z: 1.04083516e-17}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -0, y: .0112382602, z: .000600818137}
+        inSlope: {x: -0, y: 9.12331188e-08, z: 4.4607158e-18}
+        outSlope: {x: -0, y: 1.66533388e-16, z: 1.04083367e-17}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.00703243772, y: .000122298385, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.00703243772, y: .000122298385, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.00695723342, y: 8.08234836e-05, z: 3.7615817e-38}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.00695723295, y: 8.08234836e-05, z: 3.7615817e-38}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.00681624375, y: -1.10779429e-05, z: -1.35665668e-21}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.00681624329, y: -1.1077942e-05, z: -1.35665668e-21}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:Spline_03
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.00653900392, y: -5.551115e-19, z: -5.29213063e-20}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.00653900392, y: -5.551115e-19, z: -5.29213031e-20}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:Spline_03/Forest_Man_ST_02:Neck
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0609228946, y: 1.03250742e-16, z: -2.77304313e-19}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.0609228909, y: 1.03250735e-16, z: -2.77304313e-19}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:Spline_03/Forest_Man_ST_02:Neck/Forest_Man_ST_02:Akul
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.00185274519, y: -.00197076425, z: -.00410993304}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.00185274507, y: -.00197076425, z: -.00410993304}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:joint13
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0051405374, y: -.00141092076, z: -.000348995323}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.0051405374, y: -.00141092076, z: -.000348995323}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:joint13/Forest_Man_ST_02:joint14
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.012270838, y: -.000204038632, z: .000157275834}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.0122708371, y: -.000204038617, z: .000157275834}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:joint13/Forest_Man_ST_02:joint14/Forest_Man_ST_02:joint15
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0102022598, y: -.000210579048, z: .000301371037}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.0102022588, y: -.000210579034, z: .000301371037}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:joint13/Forest_Man_ST_02:joint14/Forest_Man_ST_02:joint15/Forest_Man_ST_02:joint16
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.00348757301, y: 2.83033132e-05, z: -4.60468182e-05}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.00348757301, y: 2.83033114e-05, z: -4.60468145e-05}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:joint13/Forest_Man_ST_02:joint14/Forest_Man_ST_02:joint15/Forest_Man_ST_02:joint16/Forest_Man_ST_02:joint17
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .026528921, y: -.00227269693, z: 5.20618809e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: .026528921, y: -.0022726967, z: 5.20618809e-17}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:transform4
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.00410993304, y: .0283832718, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.00410993304, y: .0283832699, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:transform4/Forest_Man_ST_02:Hand_Rigg_Import:joint13
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0051405374, y: -.00141092076, z: -.000348995323}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.0051405374, y: -.00141092076, z: -.000348995323}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:transform4/Forest_Man_ST_02:Hand_Rigg_Import:joint13/Forest_Man_ST_02:Hand_Rigg_Import:joint14
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.012270838, y: -.000204038632, z: .000157275834}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.0122708371, y: -.000204038617, z: .000157275834}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:transform4/Forest_Man_ST_02:Hand_Rigg_Import:joint13/Forest_Man_ST_02:Hand_Rigg_Import:joint14/Forest_Man_ST_02:Hand_Rigg_Import:joint15
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0102022598, y: -.000210579048, z: .000301371037}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.0102022588, y: -.000210579034, z: .000301371037}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:transform4/Forest_Man_ST_02:Hand_Rigg_Import:joint13/Forest_Man_ST_02:Hand_Rigg_Import:joint14/Forest_Man_ST_02:Hand_Rigg_Import:joint15/Forest_Man_ST_02:Hand_Rigg_Import:joint16
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.00348757301, y: 2.83033132e-05, z: -4.60468182e-05}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.00348757301, y: 2.83033114e-05, z: -4.60468145e-05}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:transform4/Forest_Man_ST_02:Hand_Rigg_Import:joint13/Forest_Man_ST_02:Hand_Rigg_Import:joint14/Forest_Man_ST_02:Hand_Rigg_Import:joint15/Forest_Man_ST_02:Hand_Rigg_Import:joint16/Forest_Man_ST_02:Hand_Rigg_Import:joint17
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.00715404982, y: .0114482902, z: .0152136041}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.00715404935, y: .0114482902, z: .0152136032}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:transform4/Forest_Man_ST_02:Hand_Rigg_Import:joint13/Forest_Man_ST_02:Hand_Rigg_Import:joint14/Forest_Man_ST_02:Hand_Rigg_Import:joint15/Forest_Man_ST_02:Hand_Rigg_Import:joint16/Forest_Man_ST_02:pCylinder1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .00356894103, y: -.000260526256, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: .0035689408, y: -.000260526256, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:LW_Spline
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .000769297709, y: -.000754798355, z: .00419637701}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: .000769297709, y: -.000754798355, z: .00419637654}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Hip
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.00666014105, y: -.000109167013, z: 4.83035983e-05}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.00666014105, y: -.000109167006, z: 4.83035983e-05}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Hip/Forest_Man_ST_02:Knee
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.00309127034, y: -.000643553038, z: -.000129454173}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.00309127034, y: -.000643553038, z: -.000129454173}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Hip/Forest_Man_ST_02:Knee/Forest_Man_ST_02:Ankil
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0036126154, y: -5.551115e-19, z: 8.02161759e-19}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.0036126154, y: -5.551115e-19, z: 8.02161759e-19}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Hip/Forest_Man_ST_02:Knee/Forest_Man_ST_02:Ankil/Forest_Man_ST_02:Boll
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.00247492688, y: 6.41847694e-19, z: 6.75788259e-19}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.00247492688, y: 6.41847694e-19, z: 6.75788259e-19}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Hip/Forest_Man_ST_02:Knee/Forest_Man_ST_02:Ankil/Forest_Man_ST_02:Boll/Forest_Man_ST_02:Toe
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .0124773951, y: -.00294030993, z: -1.0100312e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: .0124773942, y: -.0029403097, z: -1.0100312e-16}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:transform5
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.00419637701, y: .0119103324, z: 1.24683244e-20}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.00419637654, y: .0119103324, z: 1.24683244e-20}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:transform5/Forest_Man_ST_02:Hand_Rigg_Import:Hip
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.00666014105, y: -.000109167013, z: 4.83035983e-05}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.00666014105, y: -.000109167006, z: 4.83035983e-05}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:transform5/Forest_Man_ST_02:Hand_Rigg_Import:Hip/Forest_Man_ST_02:Hand_Rigg_Import:Knee
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.00309127034, y: -.000643553038, z: -.000129454173}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.00309127034, y: -.000643553038, z: -.000129454173}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:transform5/Forest_Man_ST_02:Hand_Rigg_Import:Hip/Forest_Man_ST_02:Hand_Rigg_Import:Knee/Forest_Man_ST_02:Hand_Rigg_Import:Ankil
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.0036126154, y: -5.551115e-19, z: 8.02161759e-19}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.0036126154, y: -5.551115e-19, z: 8.02161759e-19}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:transform5/Forest_Man_ST_02:Hand_Rigg_Import:Hip/Forest_Man_ST_02:Hand_Rigg_Import:Knee/Forest_Man_ST_02:Hand_Rigg_Import:Ankil/Forest_Man_ST_02:Hand_Rigg_Import:Boll
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.00247492688, y: 6.41847694e-19, z: 6.75788259e-19}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: -.00247492688, y: 6.41847694e-19, z: 6.75788259e-19}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:transform5/Forest_Man_ST_02:Hand_Rigg_Import:Hip/Forest_Man_ST_02:Hand_Rigg_Import:Knee/Forest_Man_ST_02:Hand_Rigg_Import:Ankil/Forest_Man_ST_02:Hand_Rigg_Import:Boll/Forest_Man_ST_02:Hand_Rigg_Import:Toe
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:nurbsCircle8
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:nurbsCircle8/Forest_Man_ST_02:nurbsCircle6/Forest_Man_ST_02:nurbsCircle9
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:nurbsCircle8/Forest_Man_ST_02:nurbsCircle6/Forest_Man_ST_02:nurbsCircle9/Forest_Man_ST_02:nurbsCircle7
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:nurbsCircle8/Forest_Man_ST_02:nurbsCircle6/Forest_Man_ST_02:nurbsCircle9/Forest_Man_ST_02:nurbsCircle1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:nurbsCircle8/Forest_Man_ST_02:nurbsCircle6/Forest_Man_ST_02:nurbsCircle9/Forest_Man_ST_02:nurbsCircle1/Forest_Man_ST_02:nurbsCircle2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:nurbsCircle8/Forest_Man_ST_02:nurbsCircle6/Forest_Man_ST_02:nurbsCircle9/Forest_Man_ST_02:nurbsCircle1/Forest_Man_ST_02:nurbsCircle2/Forest_Man_ST_02:nurbsCircle3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:nurbsCircle8/Forest_Man_ST_02:nurbsCircle6/Forest_Man_ST_02:nurbsCircle9/Forest_Man_ST_02:Hand_Rigg_Import:Hand_Import/Forest_Man_ST_02:Hand_Rigg_Import:nurbsCircle1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:nurbsCircle8/Forest_Man_ST_02:nurbsCircle6/Forest_Man_ST_02:nurbsCircle9/Forest_Man_ST_02:Hand_Rigg_Import:Hand_Import/Forest_Man_ST_02:Hand_Rigg_Import:nurbsCircle1/Forest_Man_ST_02:Hand_Rigg_Import:nurbsCircle2
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:nurbsCircle8/Forest_Man_ST_02:nurbsCircle6/Forest_Man_ST_02:nurbsCircle9/Forest_Man_ST_02:Hand_Rigg_Import:Hand_Import/Forest_Man_ST_02:Hand_Rigg_Import:nurbsCircle1/Forest_Man_ST_02:Hand_Rigg_Import:nurbsCircle2/Forest_Man_ST_02:Hand_Rigg_Import:nurbsCircle3
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:Spline_03
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:Spline_03/Forest_Man_ST_02:Neck
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:Spline_03/Forest_Man_ST_02:Neck/Forest_Man_ST_02:Akul
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:joint13
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:joint13/Forest_Man_ST_02:joint14
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:joint13/Forest_Man_ST_02:joint14/Forest_Man_ST_02:joint15
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:joint13/Forest_Man_ST_02:joint14/Forest_Man_ST_02:joint15/Forest_Man_ST_02:joint16
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:joint13/Forest_Man_ST_02:joint14/Forest_Man_ST_02:joint15/Forest_Man_ST_02:joint16/Forest_Man_ST_02:joint17
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: -1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 1, y: 1, z: -1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:transform4
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:transform4/Forest_Man_ST_02:Hand_Rigg_Import:joint13
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:transform4/Forest_Man_ST_02:Hand_Rigg_Import:joint13/Forest_Man_ST_02:Hand_Rigg_Import:joint14
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:transform4/Forest_Man_ST_02:Hand_Rigg_Import:joint13/Forest_Man_ST_02:Hand_Rigg_Import:joint14/Forest_Man_ST_02:Hand_Rigg_Import:joint15
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:transform4/Forest_Man_ST_02:Hand_Rigg_Import:joint13/Forest_Man_ST_02:Hand_Rigg_Import:joint14/Forest_Man_ST_02:Hand_Rigg_Import:joint15/Forest_Man_ST_02:Hand_Rigg_Import:joint16
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:transform4/Forest_Man_ST_02:Hand_Rigg_Import:joint13/Forest_Man_ST_02:Hand_Rigg_Import:joint14/Forest_Man_ST_02:Hand_Rigg_Import:joint15/Forest_Man_ST_02:Hand_Rigg_Import:joint16/Forest_Man_ST_02:Hand_Rigg_Import:joint17
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Spline_01/Forest_Man_ST_02:Spline_02/Forest_Man_ST_02:transform4/Forest_Man_ST_02:Hand_Rigg_Import:joint13/Forest_Man_ST_02:Hand_Rigg_Import:joint14/Forest_Man_ST_02:Hand_Rigg_Import:joint15/Forest_Man_ST_02:Hand_Rigg_Import:joint16/Forest_Man_ST_02:pCylinder1
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:LW_Spline
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Hip
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Hip/Forest_Man_ST_02:Knee
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Hip/Forest_Man_ST_02:Knee/Forest_Man_ST_02:Ankil
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Hip/Forest_Man_ST_02:Knee/Forest_Man_ST_02:Ankil/Forest_Man_ST_02:Boll
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:Hip/Forest_Man_ST_02:Knee/Forest_Man_ST_02:Ankil/Forest_Man_ST_02:Boll/Forest_Man_ST_02:Toe
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: -1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 1, y: 1, z: -1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:transform5
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:transform5/Forest_Man_ST_02:Hand_Rigg_Import:Hip
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:transform5/Forest_Man_ST_02:Hand_Rigg_Import:Hip/Forest_Man_ST_02:Hand_Rigg_Import:Knee
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:transform5/Forest_Man_ST_02:Hand_Rigg_Import:Hip/Forest_Man_ST_02:Hand_Rigg_Import:Knee/Forest_Man_ST_02:Hand_Rigg_Import:Ankil
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:transform5/Forest_Man_ST_02:Hand_Rigg_Import:Hip/Forest_Man_ST_02:Hand_Rigg_Import:Knee/Forest_Man_ST_02:Hand_Rigg_Import:Ankil/Forest_Man_ST_02:Hand_Rigg_Import:Boll
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: .708333313
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Forest_Man_ST_02:Total_Rigg/Forest_Man_ST_02:Root/Forest_Man_ST_02:transform5/Forest_Man_ST_02:Hand_Rigg_Import:Hip/Forest_Man_ST_02:Hand_Rigg_Import:Knee/Forest_Man_ST_02:Hand_Rigg_Import:Ankil/Forest_Man_ST_02:Hand_Rigg_Import:Boll/Forest_Man_ST_02:Hand_Rigg_Import:Toe
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 24
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - path: 3835463508
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 82972058
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 296144274
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1368723344
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3103173285
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2939117722
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1995709143
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 935094971
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 519530449
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 4138641555
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3501651846
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1118166908
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2709888877
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3414432166
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3830771334
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1550175111
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1182782862
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2094877190
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1321156792
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3398521840
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3429277956
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 873768432
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 296144274
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1368723344
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3103173285
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2939117722
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 455964566
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1995709143
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 935094971
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 519530449
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2453711431
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 4138641555
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3350620435
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3501651846
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1589650782
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3734342914
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1118166908
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2709888877
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3580744209
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2176841816
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 4127149503
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2297801715
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3414432166
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3830771334
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1550175111
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2747963692
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1017442311
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3839938000
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1182782862
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2094877190
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1321156792
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1481382785
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2857678292
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3701308549
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3398521840
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3429277956
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 873768432
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3422886687
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2437353109
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3835463508
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 455964566
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 82972058
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2453711431
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3350620435
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1589650782
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3734342914
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3580744209
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2176841816
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 4127149503
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2297801715
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2747963692
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1017442311
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3839938000
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1481382785
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2857678292
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3701308549
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3422886687
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2437353109
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3835463508
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 296144274
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1368723344
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3103173285
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2939117722
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 455964566
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1995709143
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 935094971
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 519530449
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 82972058
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2453711431
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 4138641555
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3350620435
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3501651846
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1589650782
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3734342914
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1118166908
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2709888877
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3580744209
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2176841816
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 4127149503
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2297801715
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3414432166
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3830771334
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1550175111
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2747963692
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1017442311
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3839938000
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1182782862
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2094877190
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1321156792
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1481382785
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2857678292
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3701308549
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3398521840
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3429277956
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 873768432
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3422886687
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2437353109
+      attribute: 3
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: .708333313
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []

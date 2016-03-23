@@ -1,0 +1,528 @@
+fileFormatVersion: 2
+guid: 35abbcb0f87a545c49aca9c4bea036de
+timeCreated: 1455793067
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: brahmastram_joints
+    100004: joint100
+    100006: joint101
+    100008: joint102
+    100010: joint103
+    100012: joint104
+    100014: joint105
+    100016: joint106
+    100018: joint107
+    100020: joint108
+    100022: joint109
+    100024: joint110
+    100026: joint111
+    100028: joint112
+    100030: joint113
+    100032: joint114
+    100034: joint115
+    100036: joint116
+    100038: joint117
+    100040: joint118
+    100042: joint119
+    100044: joint120
+    100046: joint121
+    100048: joint122
+    100050: joint19
+    100052: joint20
+    100054: joint21
+    100056: joint22
+    100058: joint23
+    100060: joint24
+    100062: joint25
+    100064: joint26
+    100066: joint27
+    100068: joint28
+    100070: joint29
+    100072: joint30
+    100074: joint31
+    100076: joint32
+    100078: joint33
+    100080: joint34
+    100082: joint35
+    100084: joint36
+    100086: joint37
+    100088: joint38
+    100090: joint39
+    100092: joint40
+    100094: joint41
+    100096: joint42
+    100098: joint43
+    100100: joint44
+    100102: joint45
+    100104: joint46
+    100106: joint47
+    100108: joint48
+    100110: joint49
+    100112: joint50
+    100114: joint51
+    100116: joint52
+    100118: joint53
+    100120: joint54
+    100122: joint55
+    100124: joint56
+    100126: joint57
+    100128: joint58
+    100130: joint59
+    100132: joint60
+    100134: joint61
+    100136: joint62
+    100138: joint63
+    100140: joint64
+    100142: joint65
+    100144: joint66
+    100146: joint67
+    100148: joint68
+    100150: joint69
+    100152: joint70
+    100154: joint71
+    100156: joint72
+    100158: joint73
+    100160: joint74
+    100162: joint75
+    100164: joint76
+    100166: joint77
+    100168: joint78
+    100170: joint79
+    100172: joint80
+    100174: joint81
+    100176: joint82
+    100178: joint83
+    100180: joint84
+    100182: joint85
+    100184: joint86
+    100186: joint87
+    100188: joint88
+    100190: joint89
+    100192: joint90
+    100194: joint91
+    100196: joint92
+    100198: joint93
+    100200: joint94
+    100202: joint95
+    100204: joint96
+    100206: joint97
+    100208: joint98
+    100210: joint99
+    100212: thread3
+    400000: //RootNode
+    400002: brahmastram_joints
+    400004: joint100
+    400006: joint101
+    400008: joint102
+    400010: joint103
+    400012: joint104
+    400014: joint105
+    400016: joint106
+    400018: joint107
+    400020: joint108
+    400022: joint109
+    400024: joint110
+    400026: joint111
+    400028: joint112
+    400030: joint113
+    400032: joint114
+    400034: joint115
+    400036: joint116
+    400038: joint117
+    400040: joint118
+    400042: joint119
+    400044: joint120
+    400046: joint121
+    400048: joint122
+    400050: joint19
+    400052: joint20
+    400054: joint21
+    400056: joint22
+    400058: joint23
+    400060: joint24
+    400062: joint25
+    400064: joint26
+    400066: joint27
+    400068: joint28
+    400070: joint29
+    400072: joint30
+    400074: joint31
+    400076: joint32
+    400078: joint33
+    400080: joint34
+    400082: joint35
+    400084: joint36
+    400086: joint37
+    400088: joint38
+    400090: joint39
+    400092: joint40
+    400094: joint41
+    400096: joint42
+    400098: joint43
+    400100: joint44
+    400102: joint45
+    400104: joint46
+    400106: joint47
+    400108: joint48
+    400110: joint49
+    400112: joint50
+    400114: joint51
+    400116: joint52
+    400118: joint53
+    400120: joint54
+    400122: joint55
+    400124: joint56
+    400126: joint57
+    400128: joint58
+    400130: joint59
+    400132: joint60
+    400134: joint61
+    400136: joint62
+    400138: joint63
+    400140: joint64
+    400142: joint65
+    400144: joint66
+    400146: joint67
+    400148: joint68
+    400150: joint69
+    400152: joint70
+    400154: joint71
+    400156: joint72
+    400158: joint73
+    400160: joint74
+    400162: joint75
+    400164: joint76
+    400166: joint77
+    400168: joint78
+    400170: joint79
+    400172: joint80
+    400174: joint81
+    400176: joint82
+    400178: joint83
+    400180: joint84
+    400182: joint85
+    400184: joint86
+    400186: joint87
+    400188: joint88
+    400190: joint89
+    400192: joint90
+    400194: joint91
+    400196: joint92
+    400198: joint93
+    400200: joint94
+    400202: joint95
+    400204: joint96
+    400206: joint97
+    400208: joint98
+    400210: joint99
+    400212: thread3
+    4300000: thread3
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: thread3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 52
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: brahmastram_joints
+        weight: 1
+      - path: brahmastram_joints/joint122
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44/joint45
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44/joint45/joint46
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44/joint45/joint46/joint47
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44/joint45/joint46/joint47/joint48
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44/joint45/joint46/joint47/joint48/joint49
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44/joint45/joint46/joint47/joint48/joint49/joint50
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44/joint45/joint46/joint47/joint48/joint49/joint50/joint51
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44/joint45/joint46/joint47/joint48/joint49/joint50/joint51/joint52
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44/joint45/joint46/joint47/joint48/joint49/joint50/joint51/joint52/joint53
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44/joint45/joint46/joint47/joint48/joint49/joint50/joint51/joint52/joint53/joint54
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44/joint45/joint46/joint47/joint48/joint49/joint50/joint51/joint52/joint53/joint54/joint55
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44/joint45/joint46/joint47/joint48/joint49/joint50/joint51/joint52/joint53/joint54/joint55/joint56
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44/joint45/joint46/joint47/joint48/joint49/joint50/joint51/joint52/joint53/joint54/joint55/joint56/joint57
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44/joint45/joint46/joint47/joint48/joint49/joint50/joint51/joint52/joint53/joint54/joint55/joint56/joint57/joint58
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44/joint45/joint46/joint47/joint48/joint49/joint50/joint51/joint52/joint53/joint54/joint55/joint56/joint57/joint58/joint59
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44/joint45/joint46/joint47/joint48/joint49/joint50/joint51/joint52/joint53/joint54/joint55/joint56/joint57/joint58/joint59/joint60
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44/joint45/joint46/joint47/joint48/joint49/joint50/joint51/joint52/joint53/joint54/joint55/joint56/joint57/joint58/joint59/joint60/joint61
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44/joint45/joint46/joint47/joint48/joint49/joint50/joint51/joint52/joint53/joint54/joint55/joint56/joint57/joint58/joint59/joint60/joint61/joint62
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44/joint45/joint46/joint47/joint48/joint49/joint50/joint51/joint52/joint53/joint54/joint55/joint56/joint57/joint58/joint59/joint60/joint61/joint62/joint63
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44/joint45/joint46/joint47/joint48/joint49/joint50/joint51/joint52/joint53/joint54/joint55/joint56/joint57/joint58/joint59/joint60/joint61/joint62/joint63/joint64
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44/joint45/joint46/joint47/joint48/joint49/joint50/joint51/joint52/joint53/joint54/joint55/joint56/joint57/joint58/joint59/joint60/joint61/joint62/joint63/joint64/joint65
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44/joint45/joint46/joint47/joint48/joint49/joint50/joint51/joint52/joint53/joint54/joint55/joint56/joint57/joint58/joint59/joint60/joint61/joint62/joint63/joint64/joint65/joint66
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44/joint45/joint46/joint47/joint48/joint49/joint50/joint51/joint52/joint53/joint54/joint55/joint56/joint57/joint58/joint59/joint60/joint61/joint62/joint63/joint64/joint65/joint66/joint67
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44/joint45/joint46/joint47/joint48/joint49/joint50/joint51/joint52/joint53/joint54/joint55/joint56/joint57/joint58/joint59/joint60/joint61/joint62/joint63/joint64/joint65/joint66/joint67/joint68
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44/joint45/joint46/joint47/joint48/joint49/joint50/joint51/joint52/joint53/joint54/joint55/joint56/joint57/joint58/joint59/joint60/joint61/joint62/joint63/joint64/joint65/joint66/joint67/joint68/joint69
+        weight: 1
+      - path: brahmastram_joints/joint122/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44/joint45/joint46/joint47/joint48/joint49/joint50/joint51/joint52/joint53/joint54/joint55/joint56/joint57/joint58/joint59/joint60/joint61/joint62/joint63/joint64/joint65/joint66/joint67/joint68/joint69/joint70
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/joint82
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/joint82/joint83
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/joint82/joint83/joint84
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/joint82/joint83/joint84/joint85
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/joint82/joint83/joint84/joint85/joint86
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/joint82/joint83/joint84/joint85/joint86/joint87
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/joint82/joint83/joint84/joint85/joint86/joint87/joint88
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/joint82/joint83/joint84/joint85/joint86/joint87/joint88/joint89
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/joint82/joint83/joint84/joint85/joint86/joint87/joint88/joint89/joint90
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/joint82/joint83/joint84/joint85/joint86/joint87/joint88/joint89/joint90/joint91
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/joint82/joint83/joint84/joint85/joint86/joint87/joint88/joint89/joint90/joint91/joint92
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/joint82/joint83/joint84/joint85/joint86/joint87/joint88/joint89/joint90/joint91/joint92/joint93
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/joint82/joint83/joint84/joint85/joint86/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/joint82/joint83/joint84/joint85/joint86/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint95
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/joint82/joint83/joint84/joint85/joint86/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint95/joint96
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/joint82/joint83/joint84/joint85/joint86/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint95/joint96/joint97
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/joint82/joint83/joint84/joint85/joint86/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint95/joint96/joint97/joint98
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/joint82/joint83/joint84/joint85/joint86/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint95/joint96/joint97/joint98/joint99
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/joint82/joint83/joint84/joint85/joint86/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint95/joint96/joint97/joint98/joint99/joint100
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/joint82/joint83/joint84/joint85/joint86/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint95/joint96/joint97/joint98/joint99/joint100/joint101
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/joint82/joint83/joint84/joint85/joint86/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint95/joint96/joint97/joint98/joint99/joint100/joint101/joint102
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/joint82/joint83/joint84/joint85/joint86/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint95/joint96/joint97/joint98/joint99/joint100/joint101/joint102/joint103
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/joint82/joint83/joint84/joint85/joint86/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint95/joint96/joint97/joint98/joint99/joint100/joint101/joint102/joint103/joint104
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/joint82/joint83/joint84/joint85/joint86/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint95/joint96/joint97/joint98/joint99/joint100/joint101/joint102/joint103/joint104/joint105
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/joint82/joint83/joint84/joint85/joint86/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint95/joint96/joint97/joint98/joint99/joint100/joint101/joint102/joint103/joint104/joint105/joint106
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/joint82/joint83/joint84/joint85/joint86/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint95/joint96/joint97/joint98/joint99/joint100/joint101/joint102/joint103/joint104/joint105/joint106/joint107
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/joint82/joint83/joint84/joint85/joint86/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint95/joint96/joint97/joint98/joint99/joint100/joint101/joint102/joint103/joint104/joint105/joint106/joint107/joint108
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/joint82/joint83/joint84/joint85/joint86/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint95/joint96/joint97/joint98/joint99/joint100/joint101/joint102/joint103/joint104/joint105/joint106/joint107/joint108/joint109
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/joint82/joint83/joint84/joint85/joint86/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint95/joint96/joint97/joint98/joint99/joint100/joint101/joint102/joint103/joint104/joint105/joint106/joint107/joint108/joint109/joint110
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/joint82/joint83/joint84/joint85/joint86/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint95/joint96/joint97/joint98/joint99/joint100/joint101/joint102/joint103/joint104/joint105/joint106/joint107/joint108/joint109/joint110/joint111
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/joint82/joint83/joint84/joint85/joint86/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint95/joint96/joint97/joint98/joint99/joint100/joint101/joint102/joint103/joint104/joint105/joint106/joint107/joint108/joint109/joint110/joint111/joint112
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/joint82/joint83/joint84/joint85/joint86/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint95/joint96/joint97/joint98/joint99/joint100/joint101/joint102/joint103/joint104/joint105/joint106/joint107/joint108/joint109/joint110/joint111/joint112/joint113
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/joint82/joint83/joint84/joint85/joint86/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint95/joint96/joint97/joint98/joint99/joint100/joint101/joint102/joint103/joint104/joint105/joint106/joint107/joint108/joint109/joint110/joint111/joint112/joint113/joint114
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/joint82/joint83/joint84/joint85/joint86/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint95/joint96/joint97/joint98/joint99/joint100/joint101/joint102/joint103/joint104/joint105/joint106/joint107/joint108/joint109/joint110/joint111/joint112/joint113/joint114/joint115
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/joint82/joint83/joint84/joint85/joint86/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint95/joint96/joint97/joint98/joint99/joint100/joint101/joint102/joint103/joint104/joint105/joint106/joint107/joint108/joint109/joint110/joint111/joint112/joint113/joint114/joint115/joint116
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/joint82/joint83/joint84/joint85/joint86/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint95/joint96/joint97/joint98/joint99/joint100/joint101/joint102/joint103/joint104/joint105/joint106/joint107/joint108/joint109/joint110/joint111/joint112/joint113/joint114/joint115/joint116/joint117
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/joint82/joint83/joint84/joint85/joint86/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint95/joint96/joint97/joint98/joint99/joint100/joint101/joint102/joint103/joint104/joint105/joint106/joint107/joint108/joint109/joint110/joint111/joint112/joint113/joint114/joint115/joint116/joint117/joint118
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/joint82/joint83/joint84/joint85/joint86/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint95/joint96/joint97/joint98/joint99/joint100/joint101/joint102/joint103/joint104/joint105/joint106/joint107/joint108/joint109/joint110/joint111/joint112/joint113/joint114/joint115/joint116/joint117/joint118/joint119
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/joint82/joint83/joint84/joint85/joint86/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint95/joint96/joint97/joint98/joint99/joint100/joint101/joint102/joint103/joint104/joint105/joint106/joint107/joint108/joint109/joint110/joint111/joint112/joint113/joint114/joint115/joint116/joint117/joint118/joint119/joint120
+        weight: 1
+      - path: brahmastram_joints/joint122/joint71/joint72/joint73/joint74/joint75/joint76/joint77/joint78/joint79/joint80/joint81/joint82/joint83/joint84/joint85/joint86/joint87/joint88/joint89/joint90/joint91/joint92/joint93/joint94/joint95/joint96/joint97/joint98/joint99/joint100/joint101/joint102/joint103/joint104/joint105/joint106/joint107/joint108/joint109/joint110/joint111/joint112/joint113/joint114/joint115/joint116/joint117/joint118/joint119/joint120/joint121
+        weight: 1
+      - path: thread3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

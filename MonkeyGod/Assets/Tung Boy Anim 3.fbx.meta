@@ -1,0 +1,430 @@
+fileFormatVersion: 2
+guid: d78698b92ec14694f8222eb6cee6567c
+timeCreated: 1457952022
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Fore_Head
+    100002: Head
+    100004: L_Alm
+    100006: L_Eye_1
+    100008: L_Eye_2
+    100010: L_Foot
+    100012: L_Hand
+    100014: L_Mid_1
+    100016: L_Mid_2
+    100018: L_Mid_3
+    100020: L_Nea
+    100022: L_Pinkey_1
+    100024: L_Pinkey_2
+    100026: L_Pinkey_3
+    100028: L_Pointer_1
+    100030: L_Pointer_2
+    100032: L_Pointer_3
+    100034: L_Sholder
+    100036: L_Teo
+    100038: L_Thi
+    100040: L_Tumb_1
+    100042: L_Tumb_2
+    100044: L_Tumb_3
+    100046: Lower_Jaw
+    100048: Main_Joint
+    100050: nurbsCircle1
+    100052: nurbsCircle11
+    100054: nurbsCircle12
+    100056: nurbsCircle13
+    100058: nurbsCircle14
+    100060: nurbsCircle15
+    100062: nurbsCircle16
+    100064: nurbsCircle17
+    100066: nurbsCircle18
+    100068: nurbsCircle19
+    100070: nurbsCircle2
+    100072: nurbsCircle23
+    100074: nurbsCircle24
+    100076: nurbsCircle3
+    100078: nurbsCircle4
+    100080: polySurface74
+    100082: polySurface86
+    100084: R_Alm
+    100086: R_Eye_1
+    100088: R_Eye_2
+    100090: R_Foot
+    100092: R_Hand
+    100094: R_Mid_1
+    100096: R_Mid_2
+    100098: R_Mid_3
+    100100: R_Nea
+    100102: R_Pinkey_1
+    100104: R_Pinkey_2
+    100106: R_Pinkey_3
+    100108: R_Pointer_1
+    100110: R_Pointer_2
+    100112: R_Pointer_3
+    100114: R_Sholder
+    100116: R_Teo
+    100118: R_Thi
+    100120: R_Tumb_1
+    100122: R_Tumb_2
+    100124: R_Tumb_3
+    100126: Tung
+    100128: //RootNode
+    100130: Tung_1
+    100132: Tung_10
+    100134: Tung_2
+    100136: Tung_3
+    100138: Tung_4
+    100140: Tung_5
+    100142: Tung_6
+    100144: Tung_7
+    100146: Tung_8
+    100148: Tung_9
+    100150: Upper_Jaw
+    100152: Upper_Teath
+    400000: Fore_Head
+    400002: Head
+    400004: L_Alm
+    400006: L_Eye_1
+    400008: L_Eye_2
+    400010: L_Foot
+    400012: L_Hand
+    400014: L_Mid_1
+    400016: L_Mid_2
+    400018: L_Mid_3
+    400020: L_Nea
+    400022: L_Pinkey_1
+    400024: L_Pinkey_2
+    400026: L_Pinkey_3
+    400028: L_Pointer_1
+    400030: L_Pointer_2
+    400032: L_Pointer_3
+    400034: L_Sholder
+    400036: L_Teo
+    400038: L_Thi
+    400040: L_Tumb_1
+    400042: L_Tumb_2
+    400044: L_Tumb_3
+    400046: Lower_Jaw
+    400048: Main_Joint
+    400050: nurbsCircle1
+    400052: nurbsCircle11
+    400054: nurbsCircle12
+    400056: nurbsCircle13
+    400058: nurbsCircle14
+    400060: nurbsCircle15
+    400062: nurbsCircle16
+    400064: nurbsCircle17
+    400066: nurbsCircle18
+    400068: nurbsCircle19
+    400070: nurbsCircle2
+    400072: nurbsCircle23
+    400074: nurbsCircle24
+    400076: nurbsCircle3
+    400078: nurbsCircle4
+    400080: polySurface74
+    400082: polySurface86
+    400084: R_Alm
+    400086: R_Eye_1
+    400088: R_Eye_2
+    400090: R_Foot
+    400092: R_Hand
+    400094: R_Mid_1
+    400096: R_Mid_2
+    400098: R_Mid_3
+    400100: R_Nea
+    400102: R_Pinkey_1
+    400104: R_Pinkey_2
+    400106: R_Pinkey_3
+    400108: R_Pointer_1
+    400110: R_Pointer_2
+    400112: R_Pointer_3
+    400114: R_Sholder
+    400116: R_Teo
+    400118: R_Thi
+    400120: R_Tumb_1
+    400122: R_Tumb_2
+    400124: R_Tumb_3
+    400126: Tung
+    400128: //RootNode
+    400130: Tung_1
+    400132: Tung_10
+    400134: Tung_2
+    400136: Tung_3
+    400138: Tung_4
+    400140: Tung_5
+    400142: Tung_6
+    400144: Tung_7
+    400146: Tung_8
+    400148: Tung_9
+    400150: Upper_Jaw
+    400152: Upper_Teath
+    2300000: L_Eye_1
+    2300002: L_Eye_2
+    2300004: R_Eye_1
+    2300006: R_Eye_2
+    3300000: L_Eye_1
+    3300002: L_Eye_2
+    3300004: R_Eye_1
+    3300006: R_Eye_2
+    4300000: Tung
+    4300002: Upper_Teath
+    4300004: polySurface74
+    4300006: L_Eye_2
+    4300008: L_Eye_1
+    4300010: R_Eye_1
+    4300012: R_Eye_2
+    4300014: polySurface86
+    6400000: L_Eye_1
+    6400002: L_Eye_2
+    6400004: R_Eye_1
+    6400006: R_Eye_2
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: polySurface74
+    13700002: polySurface86
+    13700004: Tung
+    13700006: Upper_Teath
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 48
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Main_Joint
+        weight: 1
+      - path: Main_Joint/Head
+        weight: 1
+      - path: Main_Joint/Head/Fore_Head
+        weight: 1
+      - path: Main_Joint/Head/L_Sholder
+        weight: 1
+      - path: Main_Joint/Head/L_Sholder/L_Alm
+        weight: 1
+      - path: Main_Joint/Head/L_Sholder/L_Alm/L_Hand
+        weight: 1
+      - path: Main_Joint/Head/L_Sholder/L_Alm/L_Hand/L_Mid_1
+        weight: 1
+      - path: Main_Joint/Head/L_Sholder/L_Alm/L_Hand/L_Mid_1/L_Mid_2
+        weight: 1
+      - path: Main_Joint/Head/L_Sholder/L_Alm/L_Hand/L_Mid_1/L_Mid_2/L_Mid_3
+        weight: 1
+      - path: Main_Joint/Head/L_Sholder/L_Alm/L_Hand/L_Pinkey_1
+        weight: 1
+      - path: Main_Joint/Head/L_Sholder/L_Alm/L_Hand/L_Pinkey_1/L_Pinkey_2
+        weight: 1
+      - path: Main_Joint/Head/L_Sholder/L_Alm/L_Hand/L_Pinkey_1/L_Pinkey_2/L_Pinkey_3
+        weight: 1
+      - path: Main_Joint/Head/L_Sholder/L_Alm/L_Hand/L_Pointer_1
+        weight: 1
+      - path: Main_Joint/Head/L_Sholder/L_Alm/L_Hand/L_Pointer_1/L_Pointer_2
+        weight: 1
+      - path: Main_Joint/Head/L_Sholder/L_Alm/L_Hand/L_Pointer_1/L_Pointer_2/L_Pointer_3
+        weight: 1
+      - path: Main_Joint/Head/L_Sholder/L_Alm/L_Hand/L_Tumb_1
+        weight: 1
+      - path: Main_Joint/Head/L_Sholder/L_Alm/L_Hand/L_Tumb_1/L_Tumb_2
+        weight: 1
+      - path: Main_Joint/Head/L_Sholder/L_Alm/L_Hand/L_Tumb_1/L_Tumb_2/L_Tumb_3
+        weight: 1
+      - path: Main_Joint/Head/R_Sholder
+        weight: 1
+      - path: Main_Joint/Head/R_Sholder/R_Alm
+        weight: 1
+      - path: Main_Joint/Head/R_Sholder/R_Alm/R_Hand
+        weight: 1
+      - path: Main_Joint/Head/R_Sholder/R_Alm/R_Hand/R_Mid_1
+        weight: 1
+      - path: Main_Joint/Head/R_Sholder/R_Alm/R_Hand/R_Mid_1/R_Mid_2
+        weight: 1
+      - path: Main_Joint/Head/R_Sholder/R_Alm/R_Hand/R_Mid_1/R_Mid_2/R_Mid_3
+        weight: 1
+      - path: Main_Joint/Head/R_Sholder/R_Alm/R_Hand/R_Pinkey_1
+        weight: 1
+      - path: Main_Joint/Head/R_Sholder/R_Alm/R_Hand/R_Pinkey_1/R_Pinkey_2
+        weight: 1
+      - path: Main_Joint/Head/R_Sholder/R_Alm/R_Hand/R_Pinkey_1/R_Pinkey_2/R_Pinkey_3
+        weight: 1
+      - path: Main_Joint/Head/R_Sholder/R_Alm/R_Hand/R_Pointer_1
+        weight: 1
+      - path: Main_Joint/Head/R_Sholder/R_Alm/R_Hand/R_Pointer_1/R_Pointer_2
+        weight: 1
+      - path: Main_Joint/Head/R_Sholder/R_Alm/R_Hand/R_Pointer_1/R_Pointer_2/R_Pointer_3
+        weight: 1
+      - path: Main_Joint/Head/R_Sholder/R_Alm/R_Hand/R_Tumb_1
+        weight: 1
+      - path: Main_Joint/Head/R_Sholder/R_Alm/R_Hand/R_Tumb_1/R_Tumb_2
+        weight: 1
+      - path: Main_Joint/Head/R_Sholder/R_Alm/R_Hand/R_Tumb_1/R_Tumb_2/R_Tumb_3
+        weight: 1
+      - path: Main_Joint/L_Thi
+        weight: 1
+      - path: Main_Joint/L_Thi/L_Nea
+        weight: 1
+      - path: Main_Joint/L_Thi/L_Nea/L_Foot
+        weight: 1
+      - path: Main_Joint/L_Thi/L_Nea/L_Foot/L_Teo
+        weight: 1
+      - path: Main_Joint/Lower_Jaw
+        weight: 1
+      - path: Main_Joint/R_Thi
+        weight: 1
+      - path: Main_Joint/R_Thi/R_Nea
+        weight: 1
+      - path: Main_Joint/R_Thi/R_Nea/R_Foot
+        weight: 1
+      - path: Main_Joint/R_Thi/R_Nea/R_Foot/R_Teo
+        weight: 1
+      - path: Main_Joint/Tung_1
+        weight: 1
+      - path: Main_Joint/Tung_1/Tung_2
+        weight: 1
+      - path: Main_Joint/Tung_1/Tung_2/Tung_3
+        weight: 1
+      - path: Main_Joint/Tung_1/Tung_2/Tung_3/Tung_4
+        weight: 1
+      - path: Main_Joint/Tung_1/Tung_2/Tung_3/Tung_4/Tung_5
+        weight: 1
+      - path: Main_Joint/Tung_1/Tung_2/Tung_3/Tung_4/Tung_5/Tung_6
+        weight: 1
+      - path: Main_Joint/Tung_1/Tung_2/Tung_3/Tung_4/Tung_5/Tung_6/Tung_7
+        weight: 1
+      - path: Main_Joint/Tung_1/Tung_2/Tung_3/Tung_4/Tung_5/Tung_6/Tung_7/Tung_8
+        weight: 1
+      - path: Main_Joint/Tung_1/Tung_2/Tung_3/Tung_4/Tung_5/Tung_6/Tung_7/Tung_8/Tung_9
+        weight: 1
+      - path: Main_Joint/Tung_1/Tung_2/Tung_3/Tung_4/Tung_5/Tung_6/Tung_7/Tung_8/Tung_9/Tung_10
+        weight: 1
+      - path: Main_Joint/Upper_Jaw
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle2
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle2/nurbsCircle3
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle2/nurbsCircle3/L_Eye_1
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle2/nurbsCircle3/L_Eye_2
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle2/nurbsCircle3/nurbsCircle4
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle2/nurbsCircle3/R_Eye_1
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle2/nurbsCircle3/R_Eye_2
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle2/nurbsCircle23
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle2/nurbsCircle24
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle2/nurbsCircle24/nurbsCircle11
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle2/nurbsCircle24/nurbsCircle11/nurbsCircle12
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle2/nurbsCircle24/nurbsCircle11/nurbsCircle12/nurbsCircle13
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle2/nurbsCircle24/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle2/nurbsCircle24/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle15
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle2/nurbsCircle24/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle15/nurbsCircle16
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle2/nurbsCircle24/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle15/nurbsCircle16/nurbsCircle17
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle2/nurbsCircle24/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle15/nurbsCircle16/nurbsCircle17/nurbsCircle18
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle2/nurbsCircle24/nurbsCircle11/nurbsCircle12/nurbsCircle13/nurbsCircle14/nurbsCircle15/nurbsCircle16/nurbsCircle17/nurbsCircle18/nurbsCircle19
+        weight: 1
+      - path: polySurface74
+        weight: 1
+      - path: polySurface86
+        weight: 1
+      - path: Tung
+        weight: 1
+      - path: Upper_Teath
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

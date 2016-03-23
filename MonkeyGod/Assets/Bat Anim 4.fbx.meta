@@ -1,0 +1,327 @@
+fileFormatVersion: 2
+guid: 9da676f527bdc4a419be0a779fa8be7e
+timeCreated: 1458282891
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BomB1
+    100004: Chest
+    100006: Hed
+    100008: Hip
+    100010: L_Ear
+    100012: L_Ear_1
+    100014: L_Fingers
+    100016: L_Foot
+    100018: L_Nea
+    100020: L_Thi
+    100022: L_Wing_1
+    100024: L_Wing_2
+    100026: L_Wing_3
+    100028: L_Wing_4
+    100030: L_Wing_5
+    100032: L_Wing_6
+    100034: nurbsCircle1
+    100036: nurbsCircle10
+    100038: nurbsCircle10 1
+    100040: nurbsCircle11
+    100042: nurbsCircle11 1
+    100044: nurbsCircle12
+    100046: nurbsCircle14
+    100048: nurbsCircle15
+    100050: nurbsCircle17
+    100052: nurbsCircle2
+    100054: nurbsCircle3
+    100056: nurbsCircle3 1
+    100058: nurbsCircle4
+    100060: nurbsCircle4 1
+    100062: nurbsCircle5
+    100064: nurbsCircle6
+    100066: nurbsCircle7
+    100068: nurbsCircle8
+    100070: nurbsCircle9
+    100072: nurbsCircle9 1
+    100074: polySurface11
+    100076: polySurface12
+    100078: polySurface9
+    100080: R_Ear
+    100082: R_Ear_1
+    100084: R_Fingers
+    100086: R_Foot
+    100088: R_Nea
+    100090: R_Thi
+    100092: R_Wing_1
+    100094: R_Wing_2
+    100096: R_wing_3
+    100098: R_Wing_4
+    100100: R_Wing_5
+    100102: R_Wing_6
+    400000: //RootNode
+    400002: BomB1
+    400004: Chest
+    400006: Hed
+    400008: Hip
+    400010: L_Ear
+    400012: L_Ear_1
+    400014: L_Fingers
+    400016: L_Foot
+    400018: L_Nea
+    400020: L_Thi
+    400022: L_Wing_1
+    400024: L_Wing_2
+    400026: L_Wing_3
+    400028: L_Wing_4
+    400030: L_Wing_5
+    400032: L_Wing_6
+    400034: nurbsCircle1
+    400036: nurbsCircle10
+    400038: nurbsCircle10 1
+    400040: nurbsCircle11
+    400042: nurbsCircle11 1
+    400044: nurbsCircle12
+    400046: nurbsCircle14
+    400048: nurbsCircle15
+    400050: nurbsCircle17
+    400052: nurbsCircle2
+    400054: nurbsCircle3
+    400056: nurbsCircle3 1
+    400058: nurbsCircle4
+    400060: nurbsCircle4 1
+    400062: nurbsCircle5
+    400064: nurbsCircle6
+    400066: nurbsCircle7
+    400068: nurbsCircle8
+    400070: nurbsCircle9
+    400072: nurbsCircle9 1
+    400074: polySurface11
+    400076: polySurface12
+    400078: polySurface9
+    400080: R_Ear
+    400082: R_Ear_1
+    400084: R_Fingers
+    400086: R_Foot
+    400088: R_Nea
+    400090: R_Thi
+    400092: R_Wing_1
+    400094: R_Wing_2
+    400096: R_wing_3
+    400098: R_Wing_4
+    400100: R_Wing_5
+    400102: R_Wing_6
+    2300000: BomB1
+    2300002: polySurface11
+    2300004: polySurface12
+    3300000: BomB1
+    3300002: polySurface11
+    3300004: polySurface12
+    4300000: polySurface9
+    4300002: polySurface11
+    4300004: polySurface12
+    4300006: BomB1
+    6400000: BomB1
+    6400002: polySurface11
+    6400004: polySurface12
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: polySurface9
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BomB1
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: nurbsCircle1/Hip
+        weight: 1
+      - path: nurbsCircle1/Hip/Chest
+        weight: 1
+      - path: nurbsCircle1/Hip/Chest/Hed
+        weight: 1
+      - path: nurbsCircle1/Hip/Chest/Hed/L_Ear
+        weight: 1
+      - path: nurbsCircle1/Hip/Chest/Hed/L_Ear/L_Ear_1
+        weight: 1
+      - path: nurbsCircle1/Hip/Chest/Hed/R_Ear
+        weight: 1
+      - path: nurbsCircle1/Hip/Chest/Hed/R_Ear/R_Ear_1
+        weight: 1
+      - path: nurbsCircle1/Hip/Chest/L_Wing_1
+        weight: 1
+      - path: nurbsCircle1/Hip/Chest/L_Wing_1/L_Wing_2
+        weight: 1
+      - path: nurbsCircle1/Hip/Chest/L_Wing_1/L_Wing_2/L_Wing_3
+        weight: 1
+      - path: nurbsCircle1/Hip/Chest/L_Wing_1/L_Wing_2/L_Wing_3/L_Wing_4
+        weight: 1
+      - path: nurbsCircle1/Hip/Chest/L_Wing_1/L_Wing_2/L_Wing_3/L_Wing_5
+        weight: 1
+      - path: nurbsCircle1/Hip/Chest/L_Wing_1/L_Wing_2/L_Wing_3/L_Wing_6
+        weight: 1
+      - path: nurbsCircle1/Hip/Chest/R_Wing_1
+        weight: 1
+      - path: nurbsCircle1/Hip/Chest/R_Wing_1/R_Wing_2
+        weight: 1
+      - path: nurbsCircle1/Hip/Chest/R_Wing_1/R_Wing_2/R_wing_3
+        weight: 1
+      - path: nurbsCircle1/Hip/Chest/R_Wing_1/R_Wing_2/R_wing_3/R_Wing_4
+        weight: 1
+      - path: nurbsCircle1/Hip/Chest/R_Wing_1/R_Wing_2/R_wing_3/R_Wing_5
+        weight: 1
+      - path: nurbsCircle1/Hip/Chest/R_Wing_1/R_Wing_2/R_wing_3/R_Wing_6
+        weight: 1
+      - path: nurbsCircle1/Hip/L_Thi
+        weight: 1
+      - path: nurbsCircle1/Hip/L_Thi/L_Nea
+        weight: 1
+      - path: nurbsCircle1/Hip/L_Thi/L_Nea/L_Foot
+        weight: 1
+      - path: nurbsCircle1/Hip/L_Thi/L_Nea/L_Foot/L_Fingers
+        weight: 1
+      - path: nurbsCircle1/Hip/R_Thi
+        weight: 1
+      - path: nurbsCircle1/Hip/R_Thi/R_Nea
+        weight: 1
+      - path: nurbsCircle1/Hip/R_Thi/R_Nea/R_Foot
+        weight: 1
+      - path: nurbsCircle1/Hip/R_Thi/R_Nea/R_Foot/R_Fingers
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle7
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle7/nurbsCircle6
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle7/nurbsCircle6/nurbsCircle2
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle7/nurbsCircle6/nurbsCircle2/nurbsCircle3
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle7/nurbsCircle6/nurbsCircle2/nurbsCircle3/nurbsCircle4
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle7/nurbsCircle6/nurbsCircle5
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle7/nurbsCircle6/nurbsCircle5/nurbsCircle3 1
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle7/nurbsCircle6/nurbsCircle5/nurbsCircle3 1/nurbsCircle4
+          1
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle7/nurbsCircle6/nurbsCircle17
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle7/nurbsCircle6/nurbsCircle17/nurbsCircle14
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle7/nurbsCircle6/nurbsCircle17/nurbsCircle15
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle7/nurbsCircle6/nurbsCircle17/polySurface11
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle7/nurbsCircle6/nurbsCircle17/polySurface12
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle7/nurbsCircle8
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle7/nurbsCircle8/nurbsCircle9 1
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle7/nurbsCircle8/nurbsCircle9 1/nurbsCircle10
+          1
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle7/nurbsCircle8/nurbsCircle9 1/nurbsCircle10
+          1/nurbsCircle11 1
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle7/nurbsCircle12
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle7/nurbsCircle12/nurbsCircle9
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle7/nurbsCircle12/nurbsCircle9/nurbsCircle10
+        weight: 1
+      - path: nurbsCircle1/nurbsCircle7/nurbsCircle12/nurbsCircle9/nurbsCircle10/nurbsCircle11
+        weight: 1
+      - path: polySurface9
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

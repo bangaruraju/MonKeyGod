@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: 8f59421c77a29a54a8f2dba34ef25eaa
+timeCreated: 1453358896
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: joint18
+    100002: joint19
+    100004: joint20
+    100006: joint21
+    100008: joint22
+    100010: joint23
+    100012: joint24
+    100014: joint25
+    100016: joint26
+    100018: joint27
+    100020: joint28
+    100022: joint29
+    100024: joint30
+    100026: joint31
+    100028: joint32
+    100030: joint33
+    100032: joint34
+    100034: joint35
+    100036: joint36
+    100038: joint37
+    100040: joint38
+    100042: joint39
+    100044: joint40
+    100046: joint41
+    100048: joint42
+    100050: joint43
+    100052: joint44
+    100054: joint45
+    100056: joint46
+    100058: joint47
+    100060: joint48
+    100062: joint49
+    100064: joint50
+    100066: joint51
+    100068: joint52
+    100070: joint53
+    100072: joint54
+    100074: joint55
+    100076: joint56
+    100078: joint57
+    100080: joint58
+    100082: joint59
+    100084: //RootNode
+    100086: swinging_vin
+    100088: swinging_vine
+    400000: joint18
+    400002: joint19
+    400004: joint20
+    400006: joint21
+    400008: joint22
+    400010: joint23
+    400012: joint24
+    400014: joint25
+    400016: joint26
+    400018: joint27
+    400020: joint28
+    400022: joint29
+    400024: joint30
+    400026: joint31
+    400028: joint32
+    400030: joint33
+    400032: joint34
+    400034: joint35
+    400036: joint36
+    400038: joint37
+    400040: joint38
+    400042: joint39
+    400044: joint40
+    400046: joint41
+    400048: joint42
+    400050: joint43
+    400052: joint44
+    400054: joint45
+    400056: joint46
+    400058: joint47
+    400060: joint48
+    400062: joint49
+    400064: joint50
+    400066: joint51
+    400068: joint52
+    400070: joint53
+    400072: joint54
+    400074: joint55
+    400076: joint56
+    400078: joint57
+    400080: joint58
+    400082: joint59
+    400084: //RootNode
+    400086: swinging_vin
+    400088: swinging_vine
+    4300000: swinging_vine
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: swinging_vine
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 76
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: swinging_vin
+        weight: 1
+      - path: swinging_vin/joint18
+        weight: 1
+      - path: swinging_vin/joint18/joint19
+        weight: 1
+      - path: swinging_vin/joint18/joint19/joint20
+        weight: 1
+      - path: swinging_vin/joint18/joint19/joint20/joint21
+        weight: 1
+      - path: swinging_vin/joint18/joint19/joint20/joint21/joint22
+        weight: 1
+      - path: swinging_vin/joint18/joint19/joint20/joint21/joint22/joint23
+        weight: 1
+      - path: swinging_vin/joint18/joint19/joint20/joint21/joint22/joint23/joint24
+        weight: 1
+      - path: swinging_vin/joint18/joint19/joint20/joint21/joint22/joint23/joint24/joint25
+        weight: 1
+      - path: swinging_vin/joint18/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26
+        weight: 1
+      - path: swinging_vin/joint18/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27
+        weight: 1
+      - path: swinging_vin/joint18/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28
+        weight: 1
+      - path: swinging_vin/joint18/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29
+        weight: 1
+      - path: swinging_vin/joint18/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30
+        weight: 1
+      - path: swinging_vin/joint18/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31
+        weight: 1
+      - path: swinging_vin/joint18/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32
+        weight: 1
+      - path: swinging_vin/joint18/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33
+        weight: 1
+      - path: swinging_vin/joint18/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34
+        weight: 1
+      - path: swinging_vin/joint18/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35
+        weight: 1
+      - path: swinging_vin/joint18/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36
+        weight: 1
+      - path: swinging_vin/joint18/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37
+        weight: 1
+      - path: swinging_vin/joint18/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38
+        weight: 1
+      - path: swinging_vin/joint18/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39
+        weight: 1
+      - path: swinging_vin/joint18/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40
+        weight: 1
+      - path: swinging_vin/joint18/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41
+        weight: 1
+      - path: swinging_vin/joint18/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42
+        weight: 1
+      - path: swinging_vin/joint18/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43
+        weight: 1
+      - path: swinging_vin/joint18/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44
+        weight: 1
+      - path: swinging_vin/joint18/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44/joint45
+        weight: 1
+      - path: swinging_vin/joint18/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44/joint45/joint46
+        weight: 1
+      - path: swinging_vin/joint18/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44/joint45/joint46/joint47
+        weight: 1
+      - path: swinging_vin/joint18/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44/joint45/joint46/joint47/joint48
+        weight: 1
+      - path: swinging_vin/joint18/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44/joint45/joint46/joint47/joint48/joint49
+        weight: 1
+      - path: swinging_vin/joint18/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44/joint45/joint46/joint47/joint48/joint49/joint50
+        weight: 1
+      - path: swinging_vin/joint18/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44/joint45/joint46/joint47/joint48/joint49/joint50/joint51
+        weight: 1
+      - path: swinging_vin/joint18/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44/joint45/joint46/joint47/joint48/joint49/joint50/joint51/joint52
+        weight: 1
+      - path: swinging_vin/joint18/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44/joint45/joint46/joint47/joint48/joint49/joint50/joint51/joint52/joint53
+        weight: 1
+      - path: swinging_vin/joint18/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44/joint45/joint46/joint47/joint48/joint49/joint50/joint51/joint52/joint53/joint54
+        weight: 1
+      - path: swinging_vin/joint18/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44/joint45/joint46/joint47/joint48/joint49/joint50/joint51/joint52/joint53/joint54/joint55
+        weight: 1
+      - path: swinging_vin/joint18/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44/joint45/joint46/joint47/joint48/joint49/joint50/joint51/joint52/joint53/joint54/joint55/joint56
+        weight: 1
+      - path: swinging_vin/joint18/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44/joint45/joint46/joint47/joint48/joint49/joint50/joint51/joint52/joint53/joint54/joint55/joint56/joint57
+        weight: 1
+      - path: swinging_vin/joint18/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44/joint45/joint46/joint47/joint48/joint49/joint50/joint51/joint52/joint53/joint54/joint55/joint56/joint57/joint58
+        weight: 1
+      - path: swinging_vin/joint18/joint19/joint20/joint21/joint22/joint23/joint24/joint25/joint26/joint27/joint28/joint29/joint30/joint31/joint32/joint33/joint34/joint35/joint36/joint37/joint38/joint39/joint40/joint41/joint42/joint43/joint44/joint45/joint46/joint47/joint48/joint49/joint50/joint51/joint52/joint53/joint54/joint55/joint56/joint57/joint58/joint59
+        weight: 1
+      - path: swinging_vine
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
